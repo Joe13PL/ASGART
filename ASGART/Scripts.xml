@@ -1,1 +1,16 @@
+<server>
+  <!-- SHARED -->
+    <script src="Shared/packets.nut" type="server" />
+    <script src="Shared/packets.nut" type="client" />
 
+  <!-- SERVER -->
+    <script src="Server/Function/Callbacks.nut" type="server" />
+    <script src="Server/Class/Player.nut" type="server" />
+    <script src="Server/Hooks/Hooks.nut" type="server" />
+
+  <!-- Client-->
+    <script src="Client/Function/Callbacks.nut" type="client" />
+    <script src="Client/Class/Player.nut" type="client" />
+    <script src="Client/Hooks/Hooks.nut" type="client" />
+
+</server>
