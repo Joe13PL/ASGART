@@ -1,0 +1,1715 @@
+[2018-11-25 15:14:39] -========================================-
+[2018-11-25 15:14:39] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-25 15:14:39] -========================================-
+[2018-11-25 15:14:39] -= Copyright (c) 2015-2018 GO Team
+[2018-11-25 15:14:39] -= Build date: Oct 22 2018
+[2018-11-25 15:14:39] -= Minimal build version: 5
+[2018-11-25 15:14:39] -========================================-
+[2018-11-25 15:14:39] * Public:	true
+[2018-11-25 15:14:39] * Hostname:	Gothic 2 Online
+[2018-11-25 15:14:39] * Port:		28970
+[2018-11-25 15:14:39] * Max slots:	32
+[2018-11-25 15:14:39] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-25 15:14:39] -========================================-
+[2018-11-25 15:14:39] Listening on: 192.168.0.101:28970
+[2018-11-25 15:14:39] -========================================-
+[2018-11-25 15:14:39] Autopatcher lists:
+[2018-11-25 15:14:39] * download/: 0 files, 0 MB
+[2018-11-25 15:14:39] -========================================-
+[2018-11-25 15:14:39] Loading bans...
+[2018-11-25 15:14:39] Success
+[2018-11-25 15:14:39] -========================================-
+[2018-11-25 15:14:39] Connecting with Master Server...
+[2018-11-25 15:14:39] -========================================-
+[2018-11-25 15:14:39] Server scripts:
+[2018-11-25 15:14:39] + default/server-scripts/acp.nut
+[2018-11-25 15:14:39] [squirrel] Error syntax: 'ASGART/Server/Class/Player.nut' (Ln: 28 Col: 14): expected 'IDENTIFIER'
+[2018-11-25 15:14:39] [error] Cannot load: ASGART/Server/Class/Player.nut
+[2018-11-25 15:14:40] 
+[2018-11-25 15:14:40] Server failed to start...
+[2018-11-25 15:14:51] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-25 15:18:58] -========================================-
+[2018-11-25 15:18:58] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-25 15:18:58] -========================================-
+[2018-11-25 15:18:58] -= Copyright (c) 2015-2018 GO Team
+[2018-11-25 15:18:58] -= Build date: Oct 22 2018
+[2018-11-25 15:18:58] -= Minimal build version: 5
+[2018-11-25 15:18:58] -========================================-
+[2018-11-25 15:18:58] * Public:	true
+[2018-11-25 15:18:58] * Hostname:	Gothic 2 Online
+[2018-11-25 15:18:58] * Port:		28970
+[2018-11-25 15:18:58] * Max slots:	32
+[2018-11-25 15:18:58] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-25 15:18:58] -========================================-
+[2018-11-25 15:18:58] Listening on: 192.168.0.101:28970
+[2018-11-25 15:18:58] -========================================-
+[2018-11-25 15:18:58] Autopatcher lists:
+[2018-11-25 15:18:58] * download/: 0 files, 0 MB
+[2018-11-25 15:18:58] -========================================-
+[2018-11-25 15:18:58] Loading bans...
+[2018-11-25 15:18:58] Success
+[2018-11-25 15:18:58] -========================================-
+[2018-11-25 15:18:58] Connecting with Master Server...
+[2018-11-25 15:18:58] -========================================-
+[2018-11-25 15:18:58] Server scripts:
+[2018-11-25 15:18:58] + default/server-scripts/acp.nut
+[2018-11-25 15:18:58] [squirrel] Error syntax: 'ASGART/Server/Class/Player.nut' (Ln: 33 Col: 9): expected 'IDENTIFIER'
+[2018-11-25 15:18:58] [error] Cannot load: ASGART/Server/Class/Player.nut
+[2018-11-25 15:18:58] 
+[2018-11-25 15:18:58] Server failed to start...
+[2018-11-25 15:19:04] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-25 15:19:30] -========================================-
+[2018-11-25 15:19:30] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-25 15:19:30] -========================================-
+[2018-11-25 15:19:30] -= Copyright (c) 2015-2018 GO Team
+[2018-11-25 15:19:30] -= Build date: Oct 22 2018
+[2018-11-25 15:19:30] -= Minimal build version: 5
+[2018-11-25 15:19:30] -========================================-
+[2018-11-25 15:19:30] * Public:	true
+[2018-11-25 15:19:30] * Hostname:	Gothic 2 Online
+[2018-11-25 15:19:30] * Port:		28970
+[2018-11-25 15:19:30] * Max slots:	32
+[2018-11-25 15:19:30] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-25 15:19:30] -========================================-
+[2018-11-25 15:19:30] Listening on: 192.168.0.101:28970
+[2018-11-25 15:19:30] -========================================-
+[2018-11-25 15:19:30] Autopatcher lists:
+[2018-11-25 15:19:30] * download/: 0 files, 0 MB
+[2018-11-25 15:19:30] -========================================-
+[2018-11-25 15:19:30] Loading bans...
+[2018-11-25 15:19:30] Success
+[2018-11-25 15:19:30] -========================================-
+[2018-11-25 15:19:30] Connecting with Master Server...
+[2018-11-25 15:19:30] -========================================-
+[2018-11-25 15:19:30] Server scripts:
+[2018-11-25 15:19:30] + default/server-scripts/acp.nut
+[2018-11-25 15:19:30] [squirrel] Error syntax: 'ASGART/Server/Class/Player.nut' (Ln: 33 Col: 9): expected 'IDENTIFIER'
+[2018-11-25 15:19:30] [error] Cannot load: ASGART/Server/Class/Player.nut
+[2018-11-25 15:19:30] 
+[2018-11-25 15:19:30] Server failed to start...
+[2018-11-25 15:19:33] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-25 15:19:54] -========================================-
+[2018-11-25 15:19:54] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-25 15:19:54] -========================================-
+[2018-11-25 15:19:54] -= Copyright (c) 2015-2018 GO Team
+[2018-11-25 15:19:54] -= Build date: Oct 22 2018
+[2018-11-25 15:19:54] -= Minimal build version: 5
+[2018-11-25 15:19:54] -========================================-
+[2018-11-25 15:19:54] * Public:	true
+[2018-11-25 15:19:54] * Hostname:	Gothic 2 Online
+[2018-11-25 15:19:54] * Port:		28970
+[2018-11-25 15:19:54] * Max slots:	32
+[2018-11-25 15:19:54] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-25 15:19:54] -========================================-
+[2018-11-25 15:19:54] Listening on: 192.168.0.101:28970
+[2018-11-25 15:19:54] -========================================-
+[2018-11-25 15:19:54] Autopatcher lists:
+[2018-11-25 15:19:54] * download/: 0 files, 0 MB
+[2018-11-25 15:19:54] -========================================-
+[2018-11-25 15:19:54] Loading bans...
+[2018-11-25 15:19:54] Success
+[2018-11-25 15:19:54] -========================================-
+[2018-11-25 15:19:54] Connecting with Master Server...
+[2018-11-25 15:19:54] -========================================-
+[2018-11-25 15:19:54] Server scripts:
+[2018-11-25 15:19:54] + default/server-scripts/acp.nut
+[2018-11-25 15:19:54] [squirrel] Error syntax: 'ASGART/Server/Class/Player.nut' (Ln: 33 Col: 9): expected 'IDENTIFIER'
+[2018-11-25 15:19:54] [error] Cannot load: ASGART/Server/Class/Player.nut
+[2018-11-25 15:19:54] 
+[2018-11-25 15:19:54] Server failed to start...
+[2018-11-25 15:19:56] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-25 15:32:32] -========================================-
+[2018-11-25 15:32:32] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-25 15:32:32] -========================================-
+[2018-11-25 15:32:32] -= Copyright (c) 2015-2018 GO Team
+[2018-11-25 15:32:32] -= Build date: Oct 22 2018
+[2018-11-25 15:32:32] -= Minimal build version: 5
+[2018-11-25 15:32:32] -========================================-
+[2018-11-25 15:32:32] * Public:	true
+[2018-11-25 15:32:32] * Hostname:	Gothic 2 Online
+[2018-11-25 15:32:32] * Port:		28970
+[2018-11-25 15:32:32] * Max slots:	32
+[2018-11-25 15:32:32] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-25 15:32:32] -========================================-
+[2018-11-25 15:32:33] Listening on: 192.168.0.101:28970
+[2018-11-25 15:32:33] -========================================-
+[2018-11-25 15:32:33] Autopatcher lists:
+[2018-11-25 15:32:33] * download/: 0 files, 0 MB
+[2018-11-25 15:32:33] -========================================-
+[2018-11-25 15:32:33] Loading bans...
+[2018-11-25 15:32:33] Success
+[2018-11-25 15:32:33] -========================================-
+[2018-11-25 15:32:33] Connecting with Master Server...
+[2018-11-25 15:32:33] -========================================-
+[2018-11-25 15:32:33] Server scripts:
+[2018-11-25 15:32:33] + default/server-scripts/acp.nut
+[2018-11-25 15:32:33] + ASGART/Server/Class/Player.nut
+[2018-11-25 15:32:33] [squirrel] Error runtime: 'ASGART/Server/Hooks/Hooks.nut' (Ln: 5): the index 'getItemInfo' does not exist
+[2018-11-25 15:32:33] -== Stack Dump: ==-
+[2018-11-25 15:32:33] 1: Function: 'main' File: 'ASGART/Server/Hooks/Hooks.nut' Line: 20
+[2018-11-25 15:32:33] 
+-== Local varaiable: ==-
+[2018-11-25 15:32:33] + nativeclosure: _giveItem
+[2018-11-25 15:32:33] + array: eq
+[2018-11-25 15:32:33] + string: _instance (ITAR_XARDAS)
+[2018-11-25 15:32:33] + integer: pid (0)
+[2018-11-25 15:32:33] + table: this
+[2018-11-25 15:32:33] + nativeclosure: _giveItem
+[2018-11-25 15:32:33] + array: vargv
+[2018-11-25 15:32:33] + table: this
+[2018-11-25 15:32:33] [error] Cannot load: ASGART/Server/Hooks/Hooks.nut
+[2018-11-25 15:32:33] 
+[2018-11-25 15:32:33] Server failed to start...
+[2018-11-25 15:32:41] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-25 15:32:57] -========================================-
+[2018-11-25 15:32:57] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-25 15:32:57] -========================================-
+[2018-11-25 15:32:57] -= Copyright (c) 2015-2018 GO Team
+[2018-11-25 15:32:57] -= Build date: Oct 22 2018
+[2018-11-25 15:32:57] -= Minimal build version: 5
+[2018-11-25 15:32:57] -========================================-
+[2018-11-25 15:32:57] * Public:	true
+[2018-11-25 15:32:57] * Hostname:	Gothic 2 Online
+[2018-11-25 15:32:57] * Port:		28970
+[2018-11-25 15:32:57] * Max slots:	32
+[2018-11-25 15:32:57] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-25 15:32:57] -========================================-
+[2018-11-25 15:32:57] Listening on: 192.168.0.101:28970
+[2018-11-25 15:32:57] -========================================-
+[2018-11-25 15:32:57] Autopatcher lists:
+[2018-11-25 15:32:57] * download/: 0 files, 0 MB
+[2018-11-25 15:32:57] -========================================-
+[2018-11-25 15:32:57] Loading bans...
+[2018-11-25 15:32:57] Success
+[2018-11-25 15:32:57] -========================================-
+[2018-11-25 15:32:57] Connecting with Master Server...
+[2018-11-25 15:32:57] -========================================-
+[2018-11-25 15:32:57] Server scripts:
+[2018-11-25 15:32:57] + default/server-scripts/acp.nut
+[2018-11-25 15:32:57] + ASGART/Server/Class/Player.nut
+[2018-11-25 15:32:57] [squirrel] Error runtime: 'ASGART/Server/Hooks/Hooks.nut' (Ln: 17): (giveItem) wrong number of parameters, expecting 3
+[2018-11-25 15:32:57] -== Stack Dump: ==-
+[2018-11-25 15:32:57] 1: Function: 'main' File: 'ASGART/Server/Hooks/Hooks.nut' Line: 20
+[2018-11-25 15:32:57] 
+-== Local varaiable: ==-
+[2018-11-25 15:32:57] + nativeclosure: _giveItem
+[2018-11-25 15:32:57] + string: info (S)
+[2018-11-25 15:32:57] + array: eq
+[2018-11-25 15:32:57] + string: _instance (ITAR_XARDAS)
+[2018-11-25 15:32:57] + integer: pid (0)
+[2018-11-25 15:32:57] + table: this
+[2018-11-25 15:32:57] + nativeclosure: _giveItem
+[2018-11-25 15:32:57] + array: vargv
+[2018-11-25 15:32:57] + table: this
+[2018-11-25 15:32:57] [error] Cannot load: ASGART/Server/Hooks/Hooks.nut
+[2018-11-25 15:32:58] 
+[2018-11-25 15:32:58] Server failed to start...
+[2018-11-25 15:33:11] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-25 15:35:10] -========================================-
+[2018-11-25 15:35:10] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-25 15:35:10] -========================================-
+[2018-11-25 15:35:10] -= Copyright (c) 2015-2018 GO Team
+[2018-11-25 15:35:10] -= Build date: Oct 22 2018
+[2018-11-25 15:35:10] -= Minimal build version: 5
+[2018-11-25 15:35:10] -========================================-
+[2018-11-25 15:35:10] * Public:	true
+[2018-11-25 15:35:10] * Hostname:	Gothic 2 Online
+[2018-11-25 15:35:10] * Port:		28970
+[2018-11-25 15:35:10] * Max slots:	32
+[2018-11-25 15:35:10] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-25 15:35:10] -========================================-
+[2018-11-25 15:35:10] Listening on: 192.168.0.101:28970
+[2018-11-25 15:35:10] -========================================-
+[2018-11-25 15:35:10] Autopatcher lists:
+[2018-11-25 15:35:10] * download/: 0 files, 0 MB
+[2018-11-25 15:35:10] -========================================-
+[2018-11-25 15:35:10] Loading bans...
+[2018-11-25 15:35:10] Success
+[2018-11-25 15:35:10] -========================================-
+[2018-11-25 15:35:10] Connecting with Master Server...
+[2018-11-25 15:35:10] -========================================-
+[2018-11-25 15:35:10] Server scripts:
+[2018-11-25 15:35:10] + default/server-scripts/acp.nut
+[2018-11-25 15:35:10] + ASGART/Server/Class/Player.nut
+[2018-11-25 15:35:10] [squirrel] Error runtime: 'ASGART/Server/Hooks/Hooks.nut' (Ln: 20): wrong number of parameters
+[2018-11-25 15:35:10] 
+-== Local varaiable: ==-
+[2018-11-25 15:35:10] + nativeclosure: _giveItem
+[2018-11-25 15:35:10] + array: vargv
+[2018-11-25 15:35:10] + table: this
+[2018-11-25 15:35:10] [error] Cannot load: ASGART/Server/Hooks/Hooks.nut
+[2018-11-25 15:35:10] 
+[2018-11-25 15:35:10] Server failed to start...
+[2018-11-25 15:35:19] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-25 17:05:33] -========================================-
+[2018-11-25 17:05:33] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-25 17:05:33] -========================================-
+[2018-11-25 17:05:33] -= Copyright (c) 2015-2018 GO Team
+[2018-11-25 17:05:33] -= Build date: Oct 22 2018
+[2018-11-25 17:05:33] -= Minimal build version: 5
+[2018-11-25 17:05:33] -========================================-
+[2018-11-25 17:05:33] * Public:	true
+[2018-11-25 17:05:33] * Hostname:	Gothic 2 Online
+[2018-11-25 17:05:33] * Port:		28970
+[2018-11-25 17:05:33] * Max slots:	32
+[2018-11-25 17:05:33] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-25 17:05:33] -========================================-
+[2018-11-25 17:05:34] Listening on: 192.168.0.101:28970
+[2018-11-25 17:05:34] -========================================-
+[2018-11-25 17:05:34] Autopatcher lists:
+[2018-11-25 17:05:34] * download/: 0 files, 0 MB
+[2018-11-25 17:05:34] -========================================-
+[2018-11-25 17:05:34] Loading bans...
+[2018-11-25 17:05:34] Success
+[2018-11-25 17:05:34] -========================================-
+[2018-11-25 17:05:34] Connecting with Master Server...
+[2018-11-25 17:05:34] -========================================-
+[2018-11-25 17:05:34] Server scripts:
+[2018-11-25 17:05:34] + default/server-scripts/acp.nut
+[2018-11-25 17:05:34] + ASGART/Server/Class/Player.nut
+[2018-11-25 17:05:34] [squirrel] Error runtime: 'ASGART/Server/Hooks/Hooks.nut' (Ln: 8): the index '0' does not exist
+[2018-11-25 17:05:34] -== Stack Dump: ==-
+[2018-11-25 17:05:34] 1: Function: 'main' File: 'ASGART/Server/Hooks/Hooks.nut' Line: 26
+[2018-11-25 17:05:34] 
+-== Local varaiable: ==-
+[2018-11-25 17:05:34] + string: info (S)
+[2018-11-25 17:05:34] + array: eq
+[2018-11-25 17:05:34] + integer: _amount (3)
+[2018-11-25 17:05:34] + string: _instance (ITAR_XARDAS)
+[2018-11-25 17:05:34] + integer: pid (0)
+[2018-11-25 17:05:34] + table: this
+[2018-11-25 17:05:34] + nativeclosure: _giveItem
+[2018-11-25 17:05:34] + array: vargv
+[2018-11-25 17:05:34] + table: this
+[2018-11-25 17:05:34] [error] Cannot load: ASGART/Server/Hooks/Hooks.nut
+[2018-11-25 17:05:34] 
+[2018-11-25 17:05:34] Server failed to start...
+[2018-11-25 17:05:49] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-25 17:27:47] -========================================-
+[2018-11-25 17:27:47] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-25 17:27:47] -========================================-
+[2018-11-25 17:27:47] -= Copyright (c) 2015-2018 GO Team
+[2018-11-25 17:27:47] -= Build date: Oct 22 2018
+[2018-11-25 17:27:47] -= Minimal build version: 5
+[2018-11-25 17:27:47] -========================================-
+[2018-11-25 17:27:47] * Public:	true
+[2018-11-25 17:27:47] * Hostname:	Gothic 2 Online
+[2018-11-25 17:27:47] * Port:		28970
+[2018-11-25 17:27:47] * Max slots:	32
+[2018-11-25 17:27:47] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-25 17:27:47] -========================================-
+[2018-11-25 17:27:47] Listening on: 192.168.0.101:28970
+[2018-11-25 17:27:47] -========================================-
+[2018-11-25 17:27:47] Autopatcher lists:
+[2018-11-25 17:27:47] * download/: 0 files, 0 MB
+[2018-11-25 17:27:47] -========================================-
+[2018-11-25 17:27:47] Loading bans...
+[2018-11-25 17:27:47] Success
+[2018-11-25 17:27:47] -========================================-
+[2018-11-25 17:27:47] Connecting with Master Server...
+[2018-11-25 17:27:47] -========================================-
+[2018-11-25 17:27:47] Server scripts:
+[2018-11-25 17:27:47] + default/server-scripts/acp.nut
+[2018-11-25 17:27:47] + ASGART/Server/Class/Player.nut
+[2018-11-25 17:27:47] [squirrel] Error runtime: 'ASGART/Server/Hooks/Hooks.nut' (Ln: 39): the index 'name' does not exist
+[2018-11-25 17:27:47] -== Stack Dump: ==-
+[2018-11-25 17:27:47] 1: Function: 'main' File: 'ASGART/Server/Hooks/Hooks.nut' Line: 44
+[2018-11-25 17:27:47] 
+-== Local varaiable: ==-
+[2018-11-25 17:27:47] + integer: @ITERATOR@ (1)
+[2018-11-25 17:27:47] + table: item
+[2018-11-25 17:27:47] + integer: @INDEX@ (0)
+[2018-11-25 17:27:47] + string: info (S)
+[2018-11-25 17:27:47] + array: eq
+[2018-11-25 17:27:47] + integer: _amount (3)
+[2018-11-25 17:27:47] + string: _instance (ITAR_XARDAS)
+[2018-11-25 17:27:47] + integer: pid (0)
+[2018-11-25 17:27:47] + table: this
+[2018-11-25 17:27:47] + closure: isInEq
+[2018-11-25 17:27:47] + nativeclosure: _giveItem
+[2018-11-25 17:27:47] + array: vargv
+[2018-11-25 17:27:47] + table: this
+[2018-11-25 17:27:47] [error] Cannot load: ASGART/Server/Hooks/Hooks.nut
+[2018-11-25 17:27:47] 
+[2018-11-25 17:27:47] Server failed to start...
+[2018-11-25 17:27:52] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-25 17:28:04] -========================================-
+[2018-11-25 17:28:04] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-25 17:28:04] -========================================-
+[2018-11-25 17:28:04] -= Copyright (c) 2015-2018 GO Team
+[2018-11-25 17:28:04] -= Build date: Oct 22 2018
+[2018-11-25 17:28:04] -= Minimal build version: 5
+[2018-11-25 17:28:04] -========================================-
+[2018-11-25 17:28:04] * Public:	true
+[2018-11-25 17:28:04] * Hostname:	Gothic 2 Online
+[2018-11-25 17:28:04] * Port:		28970
+[2018-11-25 17:28:04] * Max slots:	32
+[2018-11-25 17:28:04] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-25 17:28:04] -========================================-
+[2018-11-25 17:28:04] Listening on: 192.168.0.101:28970
+[2018-11-25 17:28:04] -========================================-
+[2018-11-25 17:28:04] Autopatcher lists:
+[2018-11-25 17:28:04] * download/: 0 files, 0 MB
+[2018-11-25 17:28:04] -========================================-
+[2018-11-25 17:28:04] Loading bans...
+[2018-11-25 17:28:04] Success
+[2018-11-25 17:28:04] -========================================-
+[2018-11-25 17:28:04] Connecting with Master Server...
+[2018-11-25 17:28:04] -========================================-
+[2018-11-25 17:28:04] Server scripts:
+[2018-11-25 17:28:04] + default/server-scripts/acp.nut
+[2018-11-25 17:28:04] + ASGART/Server/Class/Player.nut
+[2018-11-25 17:28:04] [squirrel] Error runtime: 'ASGART/Server/Hooks/Hooks.nut' (Ln: 49): the index 'name' does not exist
+[2018-11-25 17:28:04] 
+-== Local varaiable: ==-
+[2018-11-25 17:28:04] + integer: @ITERATOR@ (1)
+[2018-11-25 17:28:04] + table: t
+[2018-11-25 17:28:04] + integer: @INDEX@ (0)
+[2018-11-25 17:28:04] + array: eq1
+[2018-11-25 17:28:04] + closure: isInEq
+[2018-11-25 17:28:04] + nativeclosure: _giveItem
+[2018-11-25 17:28:04] + array: vargv
+[2018-11-25 17:28:04] + table: this
+[2018-11-25 17:28:04] [error] Cannot load: ASGART/Server/Hooks/Hooks.nut
+[2018-11-25 17:28:04] 
+[2018-11-25 17:28:04] Server failed to start...
+[2018-11-25 17:28:10] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-25 17:28:37] -========================================-
+[2018-11-25 17:28:37] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-25 17:28:37] -========================================-
+[2018-11-25 17:28:37] -= Copyright (c) 2015-2018 GO Team
+[2018-11-25 17:28:37] -= Build date: Oct 22 2018
+[2018-11-25 17:28:37] -= Minimal build version: 5
+[2018-11-25 17:28:37] -========================================-
+[2018-11-25 17:28:37] * Public:	true
+[2018-11-25 17:28:37] * Hostname:	Gothic 2 Online
+[2018-11-25 17:28:37] * Port:		28970
+[2018-11-25 17:28:37] * Max slots:	32
+[2018-11-25 17:28:37] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-25 17:28:37] -========================================-
+[2018-11-25 17:28:37] Listening on: 192.168.0.101:28970
+[2018-11-25 17:28:37] -========================================-
+[2018-11-25 17:28:37] Autopatcher lists:
+[2018-11-25 17:28:37] * download/: 0 files, 0 MB
+[2018-11-25 17:28:37] -========================================-
+[2018-11-25 17:28:37] Loading bans...
+[2018-11-25 17:28:37] Success
+[2018-11-25 17:28:37] -========================================-
+[2018-11-25 17:28:37] Connecting with Master Server...
+[2018-11-25 17:28:37] -========================================-
+[2018-11-25 17:28:37] Server scripts:
+[2018-11-25 17:28:37] + default/server-scripts/acp.nut
+[2018-11-25 17:28:37] [squirrel] Error runtime: 'ASGART/Server/Class/Player.nut' (Ln: 27): the index 'instance' does not exist
+[2018-11-25 17:28:37] 
+-== Local varaiable: ==-
+[2018-11-25 17:28:37] + table: player
+[2018-11-25 17:28:37] + array: vargv
+[2018-11-25 17:28:37] + table: this
+[2018-11-25 17:28:37] [error] Cannot load: ASGART/Server/Class/Player.nut
+[2018-11-25 17:28:38] 
+[2018-11-25 17:28:38] Server failed to start...
+[2018-11-25 17:28:44] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-25 17:29:13] -========================================-
+[2018-11-25 17:29:13] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-25 17:29:13] -========================================-
+[2018-11-25 17:29:13] -= Copyright (c) 2015-2018 GO Team
+[2018-11-25 17:29:13] -= Build date: Oct 22 2018
+[2018-11-25 17:29:13] -= Minimal build version: 5
+[2018-11-25 17:29:13] -========================================-
+[2018-11-25 17:29:13] * Public:	true
+[2018-11-25 17:29:13] * Hostname:	Gothic 2 Online
+[2018-11-25 17:29:13] * Port:		28970
+[2018-11-25 17:29:13] * Max slots:	32
+[2018-11-25 17:29:13] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-25 17:29:13] -========================================-
+[2018-11-25 17:29:13] Listening on: 192.168.0.101:28970
+[2018-11-25 17:29:13] -========================================-
+[2018-11-25 17:29:13] Autopatcher lists:
+[2018-11-25 17:29:13] * download/: 0 files, 0 MB
+[2018-11-25 17:29:13] -========================================-
+[2018-11-25 17:29:13] Loading bans...
+[2018-11-25 17:29:13] Success
+[2018-11-25 17:29:13] -========================================-
+[2018-11-25 17:29:13] Connecting with Master Server...
+[2018-11-25 17:29:13] -========================================-
+[2018-11-25 17:29:13] Server scripts:
+[2018-11-25 17:29:13] + default/server-scripts/acp.nut
+[2018-11-25 17:29:13] [squirrel] Error runtime: 'ASGART/Server/Class/Player.nut' (Ln: 27): the index 'find' does not exist
+[2018-11-25 17:29:13] 
+-== Local varaiable: ==-
+[2018-11-25 17:29:13] + table: player
+[2018-11-25 17:29:13] + array: vargv
+[2018-11-25 17:29:13] + table: this
+[2018-11-25 17:29:13] [error] Cannot load: ASGART/Server/Class/Player.nut
+[2018-11-25 17:29:13] 
+[2018-11-25 17:29:13] Server failed to start...
+[2018-11-25 17:29:16] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-25 17:29:47] -========================================-
+[2018-11-25 17:29:47] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-25 17:29:47] -========================================-
+[2018-11-25 17:29:47] -= Copyright (c) 2015-2018 GO Team
+[2018-11-25 17:29:47] -= Build date: Oct 22 2018
+[2018-11-25 17:29:47] -= Minimal build version: 5
+[2018-11-25 17:29:47] -========================================-
+[2018-11-25 17:29:47] * Public:	true
+[2018-11-25 17:29:47] * Hostname:	Gothic 2 Online
+[2018-11-25 17:29:47] * Port:		28970
+[2018-11-25 17:29:47] * Max slots:	32
+[2018-11-25 17:29:47] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-25 17:29:47] -========================================-
+[2018-11-25 17:29:47] Listening on: 192.168.0.101:28970
+[2018-11-25 17:29:47] -========================================-
+[2018-11-25 17:29:47] Autopatcher lists:
+[2018-11-25 17:29:47] * download/: 0 files, 0 MB
+[2018-11-25 17:29:47] -========================================-
+[2018-11-25 17:29:47] Loading bans...
+[2018-11-25 17:29:47] Success
+[2018-11-25 17:29:47] -========================================-
+[2018-11-25 17:29:47] Connecting with Master Server...
+[2018-11-25 17:29:47] -========================================-
+[2018-11-25 17:29:47] Server scripts:
+[2018-11-25 17:29:47] + default/server-scripts/acp.nut
+[2018-11-25 17:29:47] [squirrel] Error runtime: 'ASGART/Server/Class/Player.nut' (Ln: 27): the index 'instance' does not exist
+[2018-11-25 17:29:47] 
+-== Local varaiable: ==-
+[2018-11-25 17:29:47] + table: player
+[2018-11-25 17:29:47] + array: vargv
+[2018-11-25 17:29:47] + table: this
+[2018-11-25 17:29:47] [error] Cannot load: ASGART/Server/Class/Player.nut
+[2018-11-25 17:29:47] 
+[2018-11-25 17:29:47] Server failed to start...
+[2018-11-25 17:29:49] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-25 17:30:47] -========================================-
+[2018-11-25 17:30:47] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-25 17:30:47] -========================================-
+[2018-11-25 17:30:47] -= Copyright (c) 2015-2018 GO Team
+[2018-11-25 17:30:47] -= Build date: Oct 22 2018
+[2018-11-25 17:30:47] -= Minimal build version: 5
+[2018-11-25 17:30:47] -========================================-
+[2018-11-25 17:30:47] * Public:	true
+[2018-11-25 17:30:47] * Hostname:	Gothic 2 Online
+[2018-11-25 17:30:47] * Port:		28970
+[2018-11-25 17:30:47] * Max slots:	32
+[2018-11-25 17:30:47] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-25 17:30:47] -========================================-
+[2018-11-25 17:30:47] Listening on: 192.168.0.101:28970
+[2018-11-25 17:30:47] -========================================-
+[2018-11-25 17:30:47] Autopatcher lists:
+[2018-11-25 17:30:47] * download/: 0 files, 0 MB
+[2018-11-25 17:30:47] -========================================-
+[2018-11-25 17:30:47] Loading bans...
+[2018-11-25 17:30:47] Success
+[2018-11-25 17:30:47] -========================================-
+[2018-11-25 17:30:47] Connecting with Master Server...
+[2018-11-25 17:30:47] -========================================-
+[2018-11-25 17:30:47] Server scripts:
+[2018-11-25 17:30:47] + default/server-scripts/acp.nut
+[2018-11-25 17:30:47] [squirrel] Error runtime: 'ASGART/Server/Class/Player.nut' (Ln: 27): the index 'instance' does not exist
+[2018-11-25 17:30:47] 
+-== Local varaiable: ==-
+[2018-11-25 17:30:47] + table: player
+[2018-11-25 17:30:47] + array: vargv
+[2018-11-25 17:30:47] + table: this
+[2018-11-25 17:30:47] [error] Cannot load: ASGART/Server/Class/Player.nut
+[2018-11-25 17:30:47] 
+[2018-11-25 17:30:47] Server failed to start...
+[2018-11-25 17:30:50] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-25 17:41:49] -========================================-
+[2018-11-25 17:41:49] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-25 17:41:49] -========================================-
+[2018-11-25 17:41:49] -= Copyright (c) 2015-2018 GO Team
+[2018-11-25 17:41:49] -= Build date: Oct 22 2018
+[2018-11-25 17:41:49] -= Minimal build version: 5
+[2018-11-25 17:41:49] -========================================-
+[2018-11-25 17:41:49] * Public:	true
+[2018-11-25 17:41:49] * Hostname:	Gothic 2 Online
+[2018-11-25 17:41:49] * Port:		28970
+[2018-11-25 17:41:49] * Max slots:	32
+[2018-11-25 17:41:49] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-25 17:41:49] -========================================-
+[2018-11-25 17:41:50] Listening on: 192.168.0.101:28970
+[2018-11-25 17:41:50] -========================================-
+[2018-11-25 17:41:50] Autopatcher lists:
+[2018-11-25 17:41:50] * download/: 0 files, 0 MB
+[2018-11-25 17:41:50] -========================================-
+[2018-11-25 17:41:50] Loading bans...
+[2018-11-25 17:41:50] Success
+[2018-11-25 17:41:50] -========================================-
+[2018-11-25 17:41:50] Connecting with Master Server...
+[2018-11-25 17:41:50] -========================================-
+[2018-11-25 17:41:50] Server scripts:
+[2018-11-25 17:41:50] + default/server-scripts/acp.nut
+[2018-11-25 17:41:50] [squirrel] Error runtime: 'ASGART/Server/Class/Player.nut' (Ln: 24): the index 'eq' does not exist
+[2018-11-25 17:41:50] -== Stack Dump: ==-
+[2018-11-25 17:41:50] 1: Function: 'main' File: 'ASGART/Server/Class/Player.nut' Line: 27
+[2018-11-25 17:41:50] 
+-== Local varaiable: ==-
+[2018-11-25 17:41:50] + integer: pid (0)
+[2018-11-25 17:41:50] + table: this
+[2018-11-25 17:41:50] + table: player
+[2018-11-25 17:41:50] + array: vargv
+[2018-11-25 17:41:50] + table: this
+[2018-11-25 17:41:50] [error] Cannot load: ASGART/Server/Class/Player.nut
+[2018-11-25 17:41:50] 
+[2018-11-25 17:41:50] Server failed to start...
+[2018-11-25 17:42:05] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-25 17:42:43] -========================================-
+[2018-11-25 17:42:43] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-25 17:42:43] -========================================-
+[2018-11-25 17:42:43] -= Copyright (c) 2015-2018 GO Team
+[2018-11-25 17:42:43] -= Build date: Oct 22 2018
+[2018-11-25 17:42:43] -= Minimal build version: 5
+[2018-11-25 17:42:43] -========================================-
+[2018-11-25 17:42:43] * Public:	true
+[2018-11-25 17:42:43] * Hostname:	Gothic 2 Online
+[2018-11-25 17:42:43] * Port:		28970
+[2018-11-25 17:42:43] * Max slots:	32
+[2018-11-25 17:42:43] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-25 17:42:43] -========================================-
+[2018-11-25 17:42:43] Listening on: 192.168.0.101:28970
+[2018-11-25 17:42:43] -========================================-
+[2018-11-25 17:42:43] Autopatcher lists:
+[2018-11-25 17:42:43] * download/: 0 files, 0 MB
+[2018-11-25 17:42:43] -========================================-
+[2018-11-25 17:42:43] Loading bans...
+[2018-11-25 17:42:43] Success
+[2018-11-25 17:42:43] -========================================-
+[2018-11-25 17:42:43] Connecting with Master Server...
+[2018-11-25 17:42:43] -========================================-
+[2018-11-25 17:42:43] Server scripts:
+[2018-11-25 17:42:43] + default/server-scripts/acp.nut
+[2018-11-25 17:42:43] [squirrel] Error runtime: 'ASGART/Server/Class/Player.nut' (Ln: 27): the index 'eq' does not exist
+[2018-11-25 17:42:43] 
+-== Local varaiable: ==-
+[2018-11-25 17:42:43] + table: player
+[2018-11-25 17:42:43] + array: vargv
+[2018-11-25 17:42:43] + table: this
+[2018-11-25 17:42:43] [error] Cannot load: ASGART/Server/Class/Player.nut
+[2018-11-25 17:42:43] 
+[2018-11-25 17:42:43] Server failed to start...
+[2018-11-25 17:42:52] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-25 17:54:54] -========================================-
+[2018-11-25 17:54:54] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-25 17:54:54] -========================================-
+[2018-11-25 17:54:54] -= Copyright (c) 2015-2018 GO Team
+[2018-11-25 17:54:54] -= Build date: Oct 22 2018
+[2018-11-25 17:54:54] -= Minimal build version: 5
+[2018-11-25 17:54:54] -========================================-
+[2018-11-25 17:54:54] * Public:	true
+[2018-11-25 17:54:54] * Hostname:	Gothic 2 Online
+[2018-11-25 17:54:54] * Port:		28970
+[2018-11-25 17:54:54] * Max slots:	32
+[2018-11-25 17:54:54] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-25 17:54:54] -========================================-
+[2018-11-25 17:54:54] Listening on: 192.168.0.101:28970
+[2018-11-25 17:54:54] -========================================-
+[2018-11-25 17:54:54] Autopatcher lists:
+[2018-11-25 17:54:54] * download/: 0 files, 0 MB
+[2018-11-25 17:54:54] -========================================-
+[2018-11-25 17:54:54] Loading bans...
+[2018-11-25 17:54:54] Success
+[2018-11-25 17:54:54] -========================================-
+[2018-11-25 17:54:54] Connecting with Master Server...
+[2018-11-25 17:54:54] -========================================-
+[2018-11-25 17:54:54] Server scripts:
+[2018-11-25 17:54:54] + default/server-scripts/acp.nut
+[2018-11-25 17:54:54] + ASGART/Server/Class/Player.nut
+[2018-11-25 17:54:54] [squirrel] Error runtime: 'ASGART/Server/Hooks/Hooks.nut' (Ln: 27): the index 'instnce' does not exist
+[2018-11-25 17:54:54] -== Stack Dump: ==-
+[2018-11-25 17:54:54] 1: Function: 'main' File: 'ASGART/Server/Hooks/Hooks.nut' Line: 55
+[2018-11-25 17:54:54] 
+-== Local varaiable: ==-
+[2018-11-25 17:54:54] + array: eq
+[2018-11-25 17:54:54] + integer: _amount (3)
+[2018-11-25 17:54:54] + string: _instance (ITAR_XARDAS)
+[2018-11-25 17:54:54] + integer: pid (0)
+[2018-11-25 17:54:54] + table: this
+[2018-11-25 17:54:54] + closure: isInEq
+[2018-11-25 17:54:54] + nativeclosure: _giveItem
+[2018-11-25 17:54:54] + array: vargv
+[2018-11-25 17:54:54] + table: this
+[2018-11-25 17:54:54] [error] Cannot load: ASGART/Server/Hooks/Hooks.nut
+[2018-11-25 17:54:54] 
+[2018-11-25 17:54:54] Server failed to start...
+[2018-11-25 17:55:04] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-25 17:55:55] -========================================-
+[2018-11-25 17:55:55] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-25 17:55:55] -========================================-
+[2018-11-25 17:55:55] -= Copyright (c) 2015-2018 GO Team
+[2018-11-25 17:55:55] -= Build date: Oct 22 2018
+[2018-11-25 17:55:55] -= Minimal build version: 5
+[2018-11-25 17:55:55] -========================================-
+[2018-11-25 17:55:55] * Public:	true
+[2018-11-25 17:55:55] * Hostname:	Gothic 2 Online
+[2018-11-25 17:55:55] * Port:		28970
+[2018-11-25 17:55:55] * Max slots:	32
+[2018-11-25 17:55:55] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-25 17:55:55] -========================================-
+[2018-11-25 17:55:55] Listening on: 192.168.0.101:28970
+[2018-11-25 17:55:55] -========================================-
+[2018-11-25 17:55:56] Autopatcher lists:
+[2018-11-25 17:55:56] * download/: 0 files, 0 MB
+[2018-11-25 17:55:56] -========================================-
+[2018-11-25 17:55:56] Loading bans...
+[2018-11-25 17:55:56] Success
+[2018-11-25 17:55:56] -========================================-
+[2018-11-25 17:55:56] Connecting with Master Server...
+[2018-11-25 17:55:56] -========================================-
+[2018-11-25 17:55:56] Server scripts:
+[2018-11-25 17:55:56] + default/server-scripts/acp.nut
+[2018-11-25 17:55:56] + ASGART/Server/Class/Player.nut
+[2018-11-25 17:55:56] [squirrel] Error runtime: 'ASGART/Server/Hooks/Hooks.nut' (Ln: 27): the index 'instnce' does not exist
+[2018-11-25 17:55:56] -== Stack Dump: ==-
+[2018-11-25 17:55:56] 1: Function: 'main' File: 'ASGART/Server/Hooks/Hooks.nut' Line: 55
+[2018-11-25 17:55:56] 
+-== Local varaiable: ==-
+[2018-11-25 17:55:56] + array: eq
+[2018-11-25 17:55:56] + integer: _amount (3)
+[2018-11-25 17:55:56] + string: _instance (ITAR_XARDAS)
+[2018-11-25 17:55:56] + integer: pid (0)
+[2018-11-25 17:55:56] + table: this
+[2018-11-25 17:55:56] + closure: isInEq
+[2018-11-25 17:55:56] + nativeclosure: _giveItem
+[2018-11-25 17:55:56] + array: vargv
+[2018-11-25 17:55:56] + table: this
+[2018-11-25 17:55:56] [error] Cannot load: ASGART/Server/Hooks/Hooks.nut
+[2018-11-25 17:55:56] 
+[2018-11-25 17:55:56] Server failed to start...
+[2018-11-25 17:56:00] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-25 17:57:50] -========================================-
+[2018-11-25 17:57:50] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-25 17:57:50] -========================================-
+[2018-11-25 17:57:50] -= Copyright (c) 2015-2018 GO Team
+[2018-11-25 17:57:50] -= Build date: Oct 22 2018
+[2018-11-25 17:57:50] -= Minimal build version: 5
+[2018-11-25 17:57:50] -========================================-
+[2018-11-25 17:57:50] * Public:	true
+[2018-11-25 17:57:50] * Hostname:	Gothic 2 Online
+[2018-11-25 17:57:50] * Port:		28970
+[2018-11-25 17:57:50] * Max slots:	32
+[2018-11-25 17:57:50] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-25 17:57:50] -========================================-
+[2018-11-25 17:57:50] [error] Network: Port already in use!
+[2018-11-25 17:57:50] 
+[2018-11-25 17:57:50] Server failed to start...
+[2018-11-25 17:57:55] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-25 18:03:21] -========================================-
+[2018-11-25 18:03:21] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-25 18:03:21] -========================================-
+[2018-11-25 18:03:21] -= Copyright (c) 2015-2018 GO Team
+[2018-11-25 18:03:21] -= Build date: Oct 22 2018
+[2018-11-25 18:03:21] -= Minimal build version: 5
+[2018-11-25 18:03:21] -========================================-
+[2018-11-25 18:03:21] * Public:	true
+[2018-11-25 18:03:21] * Hostname:	Gothic 2 Online
+[2018-11-25 18:03:21] * Port:		28970
+[2018-11-25 18:03:21] * Max slots:	32
+[2018-11-25 18:03:21] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-25 18:03:21] -========================================-
+[2018-11-25 18:03:22] Listening on: 192.168.0.101:28970
+[2018-11-25 18:03:22] -========================================-
+[2018-11-25 18:03:22] Autopatcher lists:
+[2018-11-25 18:03:22] * download/: 0 files, 0 MB
+[2018-11-25 18:03:22] -========================================-
+[2018-11-25 18:03:22] Loading bans...
+[2018-11-25 18:03:22] Success
+[2018-11-25 18:03:22] -========================================-
+[2018-11-25 18:03:22] Connecting with Master Server...
+[2018-11-25 18:03:22] -========================================-
+[2018-11-25 18:03:22] Server scripts:
+[2018-11-25 18:03:22] + default/server-scripts/acp.nut
+[2018-11-25 18:03:22] + ASGART/Server/Class/Player.nut
+[2018-11-25 18:03:22] [squirrel] Error runtime: 'ASGART/Server/Hooks/Hooks.nut' (Ln: 44): the index 'instance' does not exist
+[2018-11-25 18:03:22] -== Stack Dump: ==-
+[2018-11-25 18:03:22] 1: Function: 'main' File: 'ASGART/Server/Hooks/Hooks.nut' Line: 61
+[2018-11-25 18:03:22] 
+-== Local varaiable: ==-
+[2018-11-25 18:03:22] + integer: @ITERATOR@ (1)
+[2018-11-25 18:03:22] + table: k
+[2018-11-25 18:03:22] + integer: item (0)
+[2018-11-25 18:03:22] + array: eq
+[2018-11-25 18:03:22] + integer: _amount (5)
+[2018-11-25 18:03:22] + string: _instance (ITAR_XARDDASS)
+[2018-11-25 18:03:22] + integer: pid (0)
+[2018-11-25 18:03:22] + table: this
+[2018-11-25 18:03:22] + closure: isInEq
+[2018-11-25 18:03:22] + nativeclosure: _giveItem
+[2018-11-25 18:03:22] + array: vargv
+[2018-11-25 18:03:22] + table: this
+[2018-11-25 18:03:22] [error] Cannot load: ASGART/Server/Hooks/Hooks.nut
+[2018-11-25 18:03:22] 
+[2018-11-25 18:03:22] Server failed to start...
+[2018-11-25 18:03:33] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-25 18:07:53] -========================================-
+[2018-11-25 18:07:53] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-25 18:07:53] -========================================-
+[2018-11-25 18:07:53] -= Copyright (c) 2015-2018 GO Team
+[2018-11-25 18:07:53] -= Build date: Oct 22 2018
+[2018-11-25 18:07:53] -= Minimal build version: 5
+[2018-11-25 18:07:53] -========================================-
+[2018-11-25 18:07:53] * Public:	true
+[2018-11-25 18:07:53] * Hostname:	Gothic 2 Online
+[2018-11-25 18:07:53] * Port:		28970
+[2018-11-25 18:07:53] * Max slots:	32
+[2018-11-25 18:07:53] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-25 18:07:53] -========================================-
+[2018-11-25 18:07:53] [error] Network: Port already in use!
+[2018-11-25 18:07:53] 
+[2018-11-25 18:07:53] Server failed to start...
+[2018-11-25 18:07:59] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-25 18:11:21] -========================================-
+[2018-11-25 18:11:21] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-25 18:11:21] -========================================-
+[2018-11-25 18:11:21] -= Copyright (c) 2015-2018 GO Team
+[2018-11-25 18:11:21] -= Build date: Oct 22 2018
+[2018-11-25 18:11:21] -= Minimal build version: 5
+[2018-11-25 18:11:21] -========================================-
+[2018-11-25 18:11:21] * Public:	true
+[2018-11-25 18:11:21] * Hostname:	Gothic 2 Online
+[2018-11-25 18:11:21] * Port:		28970
+[2018-11-25 18:11:21] * Max slots:	32
+[2018-11-25 18:11:21] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-25 18:11:22] -========================================-
+[2018-11-25 18:11:22] Listening on: 192.168.0.101:28970
+[2018-11-25 18:11:22] -========================================-
+[2018-11-25 18:11:22] Autopatcher lists:
+[2018-11-25 18:11:22] * download/: 0 files, 0 MB
+[2018-11-25 18:11:22] -========================================-
+[2018-11-25 18:11:22] Loading bans...
+[2018-11-25 18:11:22] Success
+[2018-11-25 18:11:22] -========================================-
+[2018-11-25 18:11:22] Connecting with Master Server...
+[2018-11-25 18:11:22] -========================================-
+[2018-11-25 18:11:22] Server scripts:
+[2018-11-25 18:11:22] + default/server-scripts/acp.nut
+[2018-11-25 18:11:22] + ASGART/Server/Class/Player.nut
+[2018-11-25 18:11:22] [squirrel] Error runtime: 'ASGART/Server/Hooks/Hooks.nut' (Ln: 46): the index '_i' does not exist
+[2018-11-25 18:11:22] -== Stack Dump: ==-
+[2018-11-25 18:11:22] 1: Function: 'main' File: 'ASGART/Server/Hooks/Hooks.nut' Line: 74
+[2018-11-25 18:11:22] 
+-== Local varaiable: ==-
+[2018-11-25 18:11:22] + integer: i (2)
+[2018-11-25 18:11:22] + array: eq
+[2018-11-25 18:11:22] + integer: _amount (5)
+[2018-11-25 18:11:22] + string: _instance (ITAR_XARDDASS)
+[2018-11-25 18:11:22] + integer: pid (0)
+[2018-11-25 18:11:22] + table: this
+[2018-11-25 18:11:22] + closure: isInEq
+[2018-11-25 18:11:22] + nativeclosure: _giveItem
+[2018-11-25 18:11:22] + array: vargv
+[2018-11-25 18:11:22] + table: this
+[2018-11-25 18:11:22] [error] Cannot load: ASGART/Server/Hooks/Hooks.nut
+[2018-11-25 18:11:22] 
+[2018-11-25 18:11:22] Server failed to start...
+[2018-11-25 18:11:26] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-25 19:07:29] -========================================-
+[2018-11-25 19:07:29] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-25 19:07:29] -========================================-
+[2018-11-25 19:07:29] -= Copyright (c) 2015-2018 GO Team
+[2018-11-25 19:07:29] -= Build date: Oct 22 2018
+[2018-11-25 19:07:29] -= Minimal build version: 5
+[2018-11-25 19:07:29] -========================================-
+[2018-11-25 19:07:29] * Public:	true
+[2018-11-25 19:07:29] * Hostname:	Gothic 2 Online
+[2018-11-25 19:07:29] * Port:		28970
+[2018-11-25 19:07:29] * Max slots:	32
+[2018-11-25 19:07:29] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-25 19:07:29] -========================================-
+[2018-11-25 19:07:29] Listening on: 192.168.0.101:28970
+[2018-11-25 19:07:29] -========================================-
+[2018-11-25 19:07:29] Autopatcher lists:
+[2018-11-25 19:07:29] * download/: 0 files, 0 MB
+[2018-11-25 19:07:29] -========================================-
+[2018-11-25 19:07:29] Loading bans...
+[2018-11-25 19:07:29] Success
+[2018-11-25 19:07:29] -========================================-
+[2018-11-25 19:07:29] Connecting with Master Server...
+[2018-11-25 19:07:29] -========================================-
+[2018-11-25 19:07:29] Server scripts:
+[2018-11-25 19:07:29] + default/server-scripts/acp.nut
+[2018-11-25 19:07:29] + ASGART/Server/Class/Player.nut
+[2018-11-25 19:07:29] + ASGART/Server/Hooks/Hooks.nut
+[2018-11-25 19:07:29] Client scripts:
+[2018-11-25 19:07:29] + default/client-scripts/playerlist.nut
+[2018-11-25 19:07:29] + default/client-scripts/chat.nut
+[2018-11-25 19:07:29] + default/client-scripts/net.nut
+[2018-11-25 19:07:29] + ASGART/Client/Class/Player.nut
+[2018-11-25 19:07:29] 
+[2018-11-25 19:07:29] Server has successfully started...
+[2018-11-25 19:07:52] [net] Incoming connection from: 192.168.0.101|63532
+[2018-11-25 19:07:52] [net] Toworish has connected from: 192.168.0.101|63532
+[2018-11-25 19:07:52] Serial: 2f4b388ee3bc7f02a6df9987107d12af4f3a9a0 Mac: 18-d6-c7-a4-04-9b
+[2018-11-25 19:07:53] Toworish joined to the server
+[2018-11-25 19:08:02] [squirrel] Error runtime: 'ASGART/Server/Hooks/Hooks.nut' (Ln: 84): the index 'instnce' does not exist
+[2018-11-25 19:08:02] -== Stack Dump: ==-
+[2018-11-25 19:08:02] 1: Function: 'dropItemHandler' File: 'ASGART/Server/Hooks/Hooks.nut' Line: 99
+[2018-11-25 19:08:02] 
+-== Local varaiable: ==-
+[2018-11-25 19:08:02] + table: item
+[2018-11-25 19:08:02] + integer: @INDEX@ (0)
+[2018-11-25 19:08:02] + string: type (drop)
+[2018-11-25 19:08:02] + integer: pid (0)
+[2018-11-25 19:08:02] + table: this
+[2018-11-25 19:08:02] + closure: ret
+[2018-11-25 19:08:02] + instance: item
+[2018-11-25 19:08:02] + integer: pid (0)
+[2018-11-25 19:08:02] + table: this
+[2018-11-25 19:08:06] [squirrel] Error runtime: 'ASGART/Server/Hooks/Hooks.nut' (Ln: 91): the index 'instnce' does not exist
+[2018-11-25 19:08:06] -== Stack Dump: ==-
+[2018-11-25 19:08:06] 1: Function: 'takeItemHandler' File: 'ASGART/Server/Hooks/Hooks.nut' Line: 106
+[2018-11-25 19:08:06] 
+-== Local varaiable: ==-
+[2018-11-25 19:08:06] + table: item
+[2018-11-25 19:08:06] + integer: @INDEX@ (0)
+[2018-11-25 19:08:06] + string: type (take)
+[2018-11-25 19:08:06] + integer: pid (0)
+[2018-11-25 19:08:06] + table: this
+[2018-11-25 19:08:06] + closure: ret
+[2018-11-25 19:08:06] + instance: item
+[2018-11-25 19:08:06] + integer: pid (0)
+[2018-11-25 19:08:06] + table: this
+[2018-11-25 19:08:23] [squirrel] Error runtime: 'ASGART/Server/Hooks/Hooks.nut' (Ln: 84): the index 'instnce' does not exist
+[2018-11-25 19:08:23] -== Stack Dump: ==-
+[2018-11-25 19:08:23] 1: Function: 'dropItemHandler' File: 'ASGART/Server/Hooks/Hooks.nut' Line: 99
+[2018-11-25 19:08:23] 
+-== Local varaiable: ==-
+[2018-11-25 19:08:23] + table: item
+[2018-11-25 19:08:23] + integer: @INDEX@ (0)
+[2018-11-25 19:08:23] + string: type (drop)
+[2018-11-25 19:08:23] + integer: pid (0)
+[2018-11-25 19:08:23] + table: this
+[2018-11-25 19:08:23] + closure: ret
+[2018-11-25 19:08:23] + instance: item
+[2018-11-25 19:08:23] + integer: pid (0)
+[2018-11-25 19:08:23] + table: this
+[2018-11-25 1[2018-11-25 20:11:04] -========================================-
+[2018-11-25 20:11:04] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-25 20:11:04] -========================================-
+[2018-11-25 20:11:04] -= Copyright (c) 2015-2018 GO Team
+[2018-11-25 20:11:04] -= Build date: Oct 22 2018
+[2018-11-25 20:11:04] -= Minimal build version: 5
+[2018-11-25 20:11:04] -========================================-
+[2018-11-25 20:11:04] * Public:	true
+[2018-11-25 20:11:04] * Hostname:	Gothic 2 Online
+[2018-11-25 20:11:04] * Port:		28970
+[2018-11-25 20:11:04] * Max slots:	32
+[2018-11-25 20:11:04] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-25 20:11:04] -========================================-
+[2018-11-25 20:11:04] Listening on: 192.168.0.101:28970
+[2018-11-25 20:11:04] -========================================-
+[2018-11-25 20:11:04] Autopatcher lists:
+[2018-11-25 20:11:04] * download/: 0 files, 0 MB
+[2018-11-25 20:11:04] -========================================-
+[2018-11-25 20:11:04] Loading bans...
+[2018-11-25 20:11:04] Success
+[2018-11-25 20:11:04] -========================================-
+[2018-11-25 20:11:04] Connecting with Master Server...
+[2018-11-25 20:11:04] -========================================-
+[2018-11-25 20:11:04] Server scripts:
+[2018-11-25 20:11:04] + default/server-scripts/acp.nut
+[2018-11-25 20:11:04] [squirrel] Error syntax: 'ASGART/Shared/packets.nut' (Ln: 1 Col: 14): expected '{'
+[2018-11-25 20:11:04] [error] Cannot load: ASGART/Shared/packets.nut
+[2018-11-25 20:11:05] 
+[2018-11-25 20:11:05] Server failed to start...
+[2018-11-25 20:11:12] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-25 20:15:01] [error] script: source file 'ASGART/Client/Hooks/Hooks.nut' doesn't exist! (File: ASGART/Scripts.xml Line: 14)
+[2018-11-25 20:15:01] 
+[2018-11-25 20:15:01] Server failed to start...
+[2018-11-25 20:15:11] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-25 20:15:31] -========================================-
+[2018-11-25 20:15:31] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-25 20:15:31] -========================================-
+[2018-11-25 20:15:31] -= Copyright (c) 2015-2018 GO Team
+[2018-11-25 20:15:31] -= Build date: Oct 22 2018
+[2018-11-25 20:15:31] -= Minimal build version: 5
+[2018-11-25 20:15:31] -========================================-
+[2018-11-25 20:15:31] * Public:	true
+[2018-11-25 20:15:31] * Hostname:	Gothic 2 Online
+[2018-11-25 20:15:31] * Port:		28970
+[2018-11-25 20:15:31] * Max slots:	32
+[2018-11-25 20:15:31] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-25 20:15:31] -========================================-
+[2018-11-25 20:15:31] Listening on: 192.168.0.101:28970
+[2018-11-25 20:15:31] -========================================-
+[2018-11-25 20:15:31] Autopatcher lists:
+[2018-11-25 20:15:31] * download/: 0 files, 0 MB
+[2018-11-25 20:15:31] -========================================-
+[2018-11-25 20:15:31] Loading bans...
+[2018-11-25 20:15:31] Success
+[2018-11-25 20:15:31] -========================================-
+[2018-11-25 20:15:31] Connecting with Master Server...
+[2018-11-25 20:15:31] -========================================-
+[2018-11-25 20:15:31] Server scripts:
+[2018-11-25 20:15:31] + default/server-scripts/acp.nut
+[2018-11-25 20:15:31] + ASGART/Shared/packets.nut
+[2018-11-25 20:15:31] + ASGART/Server/Function/Callbacks.nut
+[2018-11-25 20:15:31] + ASGART/Server/Class/Player.nut
+[2018-11-25 20:15:31] + ASGART/Server/Hooks/Hooks.nut
+[2018-11-25 20:15:31] Client scripts:
+[2018-11-25 20:15:31] + default/client-scripts/playerlist.nut
+[2018-11-25 20:15:31] + default/client-scripts/chat.nut
+[2018-11-25 20:15:31] + default/client-scripts/net.nut
+[2018-11-25 20:15:31] + ASGART/Shared/packets.nut
+[2018-11-25 20:15:31] [squirrel] Error syntax: 'ASGART/Client/Function/Callbacks.nut' (Ln: 1 Col: 29): end of statement expected (; or lf)
+[2018-11-25 20:15:31] [error] Cannot load: ASGART/Client/Function/Callbacks.nut
+[2018-11-25 20:15:31] 
+[2018-11-25 20:15:31] Server failed to start...
+[2018-11-25 20:15:42] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-25 21:44:46] -========================================-
+[2018-11-25 21:44:46] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-25 21:44:46] -========================================-
+[2018-11-25 21:44:46] -= Copyright (c) 2015-2018 GO Team
+[2018-11-25 21:44:46] -= Build date: Oct 22 2018
+[2018-11-25 21:44:46] -= Minimal build version: 5
+[2018-11-25 21:44:46] -========================================-
+[2018-11-25 21:44:46] * Public:	true
+[2018-11-25 21:44:46] * Hostname:	Gothic 2 Online
+[2018-11-25 21:44:46] * Port:		28970
+[2018-11-25 21:44:46] * Max slots:	32
+[2018-11-25 21:44:46] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-25 21:44:46] -========================================-
+[2018-11-25 21:44:46] Listening on: 192.168.0.101:28970
+[2018-11-25 21:44:46] -========================================-
+[2018-11-25 21:44:46] Autopatcher lists:
+[2018-11-25 21:44:46] * download/: 0 files, 0 MB
+[2018-11-25 21:44:46] -========================================-
+[2018-11-25 21:44:46] Loading bans...
+[2018-11-25 21:44:46] Success
+[2018-11-25 21:44:46] -========================================-
+[2018-11-25 21:44:46] Connecting with Master Server...
+[2018-11-25 21:44:46] -========================================-
+[2018-11-25 21:44:46] Server scripts:
+[2018-11-25 21:44:46] + default/server-scripts/acp.nut
+[2018-11-25 21:44:46] + ASGART/Shared/packets.nut
+[2018-11-25 21:44:46] + ASGART/Server/Function/Callbacks.nut
+[2018-11-25 21:44:46] + ASGART/Server/Class/Player.nut
+[2018-11-25 21:44:46] + ASGART/Server/Hooks/Hooks.nut
+[2018-11-25 21:44:46] Client scripts:
+[2018-11-25 21:44:46] + default/client-scripts/playerlist.nut
+[2018-11-25 21:44:46] + default/client-scripts/chat.nut
+[2018-11-25 21:44:46] + default/client-scripts/net.nut
+[2018-11-25 21:44:46] + ASGART/Shared/packets.nut
+[2018-11-25 21:44:46] + ASGART/Client/Function/Callbacks.nut
+[2018-11-25 21:44:46] [squirrel] Error syntax: 'ASGART/Client/Class/Player.nut' (Ln: 3 Col: 45): expected 'IDENTIFIER'
+[2018-11-25 21:44:46] [error] Cannot load: ASGART/Client/Class/Player.nut
+[2018-11-25 21:44:46] 
+[2018-11-25 21:44:46] Server failed to start...
+[2018-11-25 21:44:51] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-25 22:01:04] -========================================-
+[2018-11-25 22:01:04] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-25 22:01:04] -========================================-
+[2018-11-25 22:01:04] -= Copyright (c) 2015-2018 GO Team
+[2018-11-25 22:01:04] -= Build date: Oct 22 2018
+[2018-11-25 22:01:04] -= Minimal build version: 5
+[2018-11-25 22:01:04] -========================================-
+[2018-11-25 22:01:04] * Public:	true
+[2018-11-25 22:01:05] * Hostname:	Gothic 2 Online
+[2018-11-25 22:01:05] * Port:		28970
+[2018-11-25 22:01:05] * Max slots:	32
+[2018-11-25 22:01:05] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-25 22:01:05] -========================================-
+[2018-11-25 22:01:05] Listening on: 192.168.0.101:28970
+[2018-11-25 22:01:05] -========================================-
+[2018-11-25 22:01:05] Autopatcher lists:
+[2018-11-25 22:01:05] * download/: 0 files, 0 MB
+[2018-11-25 22:01:05] -========================================-
+[2018-11-25 22:01:05] Loading bans...
+[2018-11-25 22:01:05] Success
+[2018-11-25 22:01:05] -========================================-
+[2018-11-25 22:01:05] Connecting with Master Server...
+[2018-11-25 22:01:05] -========================================-
+[2018-11-25 22:01:05] Server scripts:
+[2018-11-25 22:01:05] + default/server-scripts/acp.nut
+[2018-11-25 22:01:05] + ASGART/Shared/packets.nut
+[2018-11-25 22:01:05] + ASGART/Server/Function/Callbacks.nut
+[2018-11-25 22:01:05] + ASGART/Server/Class/Player.nut
+[2018-11-25 22:01:05] [squirrel] Error runtime: 'ASGART/Server/Hooks/Hooks.nut' (Ln: 137): comparison between 'function' and '1'
+[2018-11-25 22:01:05] 
+-== Local varaiable: ==-
+[2018-11-25 22:01:05] + array: t
+[2018-11-25 22:01:05] + closure: useItemHandler
+[2018-11-25 22:01:05] + closure: takeItemHandler
+[2018-11-25 22:01:05] + closure: dropItemHandler
+[2018-11-25 22:01:05] + closure: myRemoveItem
+[2018-11-25 22:01:05] + closure: myGiveItem
+[2018-11-25 22:01:05] + nativeclosure: _removeItem
+[2018-11-25 22:01:05] + nativeclosure: _giveItem
+[2018-11-25 22:01:05] + array: vargv
+[2018-11-25 22:01:05] + table: this
+[2018-11-25 22:01:05] [error] Cannot load: ASGART/Server/Hooks/Hooks.nut
+[2018-11-25 22:01:05] 
+[2018-11-25 22:01:05] Server failed to start...
+[2018-11-25 22:01:24] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-25 22:01:46] -========================================-
+[2018-11-25 22:01:46] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-25 22:01:46] -========================================-
+[2018-11-25 22:01:46] -= Copyright (c) 2015-2018 GO Team
+[2018-11-25 22:01:46] -= Build date: Oct 22 2018
+[2018-11-25 22:01:46] -= Minimal build version: 5
+[2018-11-25 22:01:46] -========================================-
+[2018-11-25 22:01:46] * Public:	true
+[2018-11-25 22:01:46] * Hostname:	Gothic 2 Online
+[2018-11-25 22:01:46] * Port:		28970
+[2018-11-25 22:01:46] * Max slots:	32
+[2018-11-25 22:01:46] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-25 22:01:46] -========================================-
+[2018-11-25 22:01:46] Listening on: 192.168.0.101:28970
+[2018-11-25 22:01:46] -========================================-
+[2018-11-25 22:01:46] Autopatcher lists:
+[2018-11-25 22:01:46] * download/: 0 files, 0 MB
+[2018-11-25 22:01:46] -========================================-
+[2018-11-25 22:01:46] Loading bans...
+[2018-11-25 22:01:46] Success
+[2018-11-25 22:01:46] -========================================-
+[2018-11-25 22:01:46] Connecting with Master Server...
+[2018-11-25 22:01:46] -========================================-
+[2018-11-25 22:01:46] Server scripts:
+[2018-11-25 22:01:46] + default/server-scripts/acp.nut
+[2018-11-25 22:01:46] + ASGART/Shared/packets.nut
+[2018-11-25 22:01:46] + ASGART/Server/Function/Callbacks.nut
+[2018-11-25 22:01:46] + ASGART/Server/Class/Player.nut
+[2018-11-25 22:01:46] [squirrel] Error runtime: 'ASGART/Server/Hooks/Hooks.nut' (Ln: 136): the index 's' does not exist
+[2018-11-25 22:01:46] 
+-== Local varaiable: ==-
+[2018-11-25 22:01:46] + closure: useItemHandler
+[2018-11-25 22:01:46] + closure: takeItemHandler
+[2018-11-25 22:01:46] + closure: dropItemHandler
+[2018-11-25 22:01:46] + closure: myRemoveItem
+[2018-11-25 22:01:46] + closure: myGiveItem
+[2018-11-25 22:01:46] + nativeclosure: _removeItem
+[2018-11-25 22:01:46] + nativeclosure: _giveItem
+[2018-11-25 22:01:46] + array: vargv
+[2018-11-25 22:01:46] + table: this
+[2018-11-25 22:01:46] [error] Cannot load: ASGART/Server/Hooks/Hooks.nut
+[2018-11-25 22:01:46] 
+[2018-11-25 22:01:46] Server failed to start...
+[2018-11-25 22:01:58] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-25 22:02:16] -========================================-
+[2018-11-25 22:02:16] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-25 22:02:16] -========================================-
+[2018-11-25 22:02:16] -= Copyright (c) 2015-2018 GO Team
+[2018-11-25 22:02:16] -= Build date: Oct 22 2018
+[2018-11-25 22:02:16] -= Minimal build version: 5
+[2018-11-25 22:02:16] -========================================-
+[2018-11-25 22:02:16] * Public:	true
+[2018-11-25 22:02:16] * Hostname:	Gothic 2 Online
+[2018-11-25 22:02:16] * Port:		28970
+[2018-11-25 22:02:16] * Max slots:	32
+[2018-11-25 22:02:16] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-25 22:02:16] -========================================-
+[2018-11-25 22:02:16] Listening on: 192.168.0.101:28970
+[2018-11-25 22:02:16] -========================================-
+[2018-11-25 22:02:16] Autopatcher lists:
+[2018-11-25 22:02:16] * download/: 0 files, 0 MB
+[2018-11-25 22:02:16] -========================================-
+[2018-11-25 22:02:16] Loading bans...
+[2018-11-25 22:02:16] Success
+[2018-11-25 22:02:16] -========================================-
+[2018-11-25 22:02:16] Connecting with Master Server...
+[2018-11-25 22:02:16] -========================================-
+[2018-11-25 22:02:16] Server scripts:
+[2018-11-25 22:02:16] + default/server-scripts/acp.nut
+[2018-11-25 22:02:16] + ASGART/Shared/packets.nut
+[2018-11-25 22:02:16] + ASGART/Server/Function/Callbacks.nut
+[2018-11-25 22:02:16] + ASGART/Server/Class/Player.nut
+[2018-11-25 22:02:16] [squirrel] Error syntax: 'ASGART/Server/Hooks/Hooks.nut' (Ln: 136 Col: 14): can't assign expression
+[2018-11-25 22:02:16] [error] Cannot load: ASGART/Server/Hooks/Hooks.nut
+[2018-11-25 22:02:16] 
+[2018-11-25 22:02:16] Server failed to start...
+[2018-11-25 22:02:18] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-26 05:32:32] -========================================-
+[2018-11-26 05:32:32] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-26 05:32:32] -========================================-
+[2018-11-26 05:32:32] -= Copyright (c) 2015-2018 GO Team
+[2018-11-26 05:32:32] -= Build date: Oct 22 2018
+[2018-11-26 05:32:32] -= Minimal build version: 5
+[2018-11-26 05:32:32] -========================================-
+[2018-11-26 05:32:32] * Public:	true
+[2018-11-26 05:32:32] * Hostname:	Gothic 2 Online
+[2018-11-26 05:32:32] * Port:		28970
+[2018-11-26 05:32:32] * Max slots:	32
+[2018-11-26 05:32:32] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-26 05:32:32] -========================================-
+[2018-11-26 05:32:32] Listening on: 192.168.0.102:28970
+[2018-11-26 05:32:32] -========================================-
+[2018-11-26 05:32:32] Autopatcher lists:
+[2018-11-26 05:32:32] * download/: 0 files, 0 MB
+[2018-11-26 05:32:32] -========================================-
+[2018-11-26 05:32:32] Loading bans...
+[2018-11-26 05:32:32] Success
+[2018-11-26 05:32:32] -========================================-
+[2018-11-26 05:32:32] Connecting with Master Server...
+[2018-11-26 05:32:32] -========================================-
+[2018-11-26 05:32:32] Server scripts:
+[2018-11-26 05:32:32] + default/server-scripts/acp.nut
+[2018-11-26 05:32:32] + ASGART/Shared/packets.nut
+[2018-11-26 05:32:32] + ASGART/Server/Function/Callbacks.nut
+[2018-11-26 05:32:32] [squirrel] Error syntax: 'ASGART/Server/Class/Player.nut' (Ln: 4 Col: 11): expected 'IDENTIFIER'
+[2018-11-26 05:32:32] [error] Cannot load: ASGART/Server/Class/Player.nut
+[2018-11-26 05:32:32] 
+[2018-11-26 05:32:32] Server failed to start...
+[2018-11-26 05:32:37] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-26 05:32:47] -========================================-
+[2018-11-26 05:32:47] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-26 05:32:47] -========================================-
+[2018-11-26 05:32:47] -= Copyright (c) 2015-2018 GO Team
+[2018-11-26 05:32:47] -= Build date: Oct 22 2018
+[2018-11-26 05:32:47] -= Minimal build version: 5
+[2018-11-26 05:32:47] -========================================-
+[2018-11-26 05:32:47] * Public:	true
+[2018-11-26 05:32:47] * Hostname:	Gothic 2 Online
+[2018-11-26 05:32:47] * Port:		28970
+[2018-11-26 05:32:47] * Max slots:	32
+[2018-11-26 05:32:47] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-26 05:32:47] -========================================-
+[2018-11-26 05:32:47] Listening on: 192.168.0.102:28970
+[2018-11-26 05:32:47] -========================================-
+[2018-11-26 05:32:47] Autopatcher lists:
+[2018-11-26 05:32:47] * download/: 0 files, 0 MB
+[2018-11-26 05:32:47] -========================================-
+[2018-11-26 05:32:47] Loading bans...
+[2018-11-26 05:32:47] Success
+[2018-11-26 05:32:47] -========================================-
+[2018-11-26 05:32:47] Connecting with Master Server...
+[2018-11-26 05:32:47] -========================================-
+[2018-11-26 05:32:47] Server scripts:
+[2018-11-26 05:32:47] + default/server-scripts/acp.nut
+[2018-11-26 05:32:47] + ASGART/Shared/packets.nut
+[2018-11-26 05:32:47] + ASGART/Server/Function/Callbacks.nut
+[2018-11-26 05:32:47] + ASGART/Server/Class/Player.nut
+[2018-11-26 05:32:47] [squirrel] Error syntax: 'ASGART/Server/Hooks/Hooks.nut' (Ln: 44 Col: 41): expected ')' or ','
+[2018-11-26 05:32:47] [error] Cannot load: ASGART/Server/Hooks/Hooks.nut
+[2018-11-26 05:32:47] 
+[2018-11-26 05:32:47] Server failed to start...
+[2018-11-26 05:32:51] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-26 05:34:23] -========================================-
+[2018-11-26 05:34:23] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-26 05:34:23] -========================================-
+[2018-11-26 05:34:23] -= Copyright (c) 2015-2018 GO Team
+[2018-11-26 05:34:23] -= Build date: Oct 22 2018
+[2018-11-26 05:34:23] -= Minimal build version: 5
+[2018-11-26 05:34:23] -========================================-
+[2018-11-26 05:34:23] * Public:	true
+[2018-11-26 05:34:23] * Hostname:	Gothic 2 Online
+[2018-11-26 05:34:23] * Port:		28970
+[2018-11-26 05:34:23] * Max slots:	32
+[2018-11-26 05:34:23] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-26 05:34:23] -========================================-
+[2018-11-26 05:34:23] Listening on: 192.168.0.102:28970
+[2018-11-26 05:34:23] -========================================-
+[2018-11-26 05:34:23] Autopatcher lists:
+[2018-11-26 05:34:23] * download/: 0 files, 0 MB
+[2018-11-26 05:34:23] -========================================-
+[2018-11-26 05:34:23] Loading bans...
+[2018-11-26 05:34:23] Success
+[2018-11-26 05:34:23] -========================================-
+[2018-11-26 05:34:23] Connecting with Master Server...
+[2018-11-26 05:34:23] -========================================-
+[2018-11-26 05:34:23] Server scripts:
+[2018-11-26 05:34:23] + default/server-scripts/acp.nut
+[2018-11-26 05:34:23] + ASGART/Shared/packets.nut
+[2018-11-26 05:34:23] + ASGART/Server/Function/Callbacks.nut
+[2018-11-26 05:34:23] + ASGART/Server/Class/Player.nut
+[2018-11-26 05:34:23] [squirrel] Error runtime: 'ASGART/Server/Hooks/Hooks.nut' (Ln: 64): the index '_instance' does not exist
+[2018-11-26 05:34:23] -== Stack Dump: ==-
+[2018-11-26 05:34:23] 1: Function: 'giveItem' File: 'ASGART/Server/Hooks/Hooks.nut' Line: 119
+[2018-11-26 05:34:23] 2: Function: 'main' File: 'ASGART/Server/Hooks/Hooks.nut' Line: 157
+[2018-11-26 05:34:23] 
+-== Local varaiable: ==-
+[2018-11-26 05:34:23] + array: eq
+[2018-11-26 05:34:23] + integer: amount (3)
+[2018-11-26 05:34:23] + string: instance (ITPO_SPEED)
+[2018-11-26 05:34:23] + integer: pid (0)
+[2018-11-26 05:34:23] + table: this
+[2018-11-26 05:34:23] + nativeclosure: _giveItem
+[2018-11-26 05:34:23] + integer: amount (3)
+[2018-11-26 05:34:23] + string: instance (ITPO_SPEED)
+[2018-11-26 05:34:23] + integer: pid (0)
+[2018-11-26 05:34:23] + table: this
+[2018-11-26 05:34:23] + closure: useItemHandler
+[2018-11-26 05:34:23] + closure: takeItemHandler
+[2018-11-26 05:34:23] + closure: dropItemHandler
+[2018-11-26 05:34:23] + closure: myRemoveItem
+[2018-11-26 05:34:23] + nativeclosure: _removeItem
+[2018-11-26 05:34:23] + nativeclosure: _giveItem
+[2018-11-26 05:34:23] + array: vargv
+[2018-11-26 05:34:23] + table: this
+[2018-11-26 05:34:23] [error] Cannot load: ASGART/Server/Hooks/Hooks.nut
+[2018-11-26 05:34:23] 
+[2018-11-26 05:34:23] Server failed to start...
+[2018-11-26 05:34:31] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-26 10:47:32] -========================================-
+[2018-11-26 10:47:32] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-26 10:47:32] -========================================-
+[2018-11-26 10:47:32] -= Copyright (c) 2015-2018 GO Team
+[2018-11-26 10:47:32] -= Build date: Oct 22 2018
+[2018-11-26 10:47:32] -= Minimal build version: 5
+[2018-11-26 10:47:32] -========================================-
+[2018-11-26 10:47:32] * Public:	true
+[2018-11-26 10:47:32] * Hostname:	Gothic 2 Online
+[2018-11-26 10:47:32] * Port:		28970
+[2018-11-26 10:47:32] * Max slots:	32
+[2018-11-26 10:47:32] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-26 10:47:32] -========================================-
+[2018-11-26 10:47:32] Listening on: 192.168.0.101:28970
+[2018-11-26 10:47:32] -========================================-
+[2018-11-26 10:47:32] Autopatcher lists:
+[2018-11-26 10:47:32] * download/: 0 files, 0 MB
+[2018-11-26 10:47:32] -========================================-
+[2018-11-26 10:47:32] Loading bans...
+[2018-11-26 10:47:32] Success
+[2018-11-26 10:47:32] -========================================-
+[2018-11-26 10:47:32] Connecting with Master Server...
+[2018-11-26 10:47:32] -========================================-
+[2018-11-26 10:47:32] Server scripts:
+[2018-11-26 10:47:32] + default/server-scripts/acp.nut
+[2018-11-26 10:47:32] + ASGART/Shared/packets.nut
+[2018-11-26 10:47:32] + ASGART/Server/Function/Callbacks.nut
+[2018-11-26 10:47:32] + ASGART/Server/Class/Player.nut
+[2018-11-26 10:47:32] [squirrel] Error runtime: 'ASGART/Server/Hooks/Hooks.nut' (Ln: 92): parameter 1 has an invalid type 'table' ; expected: 'integer|float'
+[2018-11-26 10:47:32] -== Stack Dump: ==-
+[2018-11-26 10:47:32] 1: Function: 'removeItem' File: 'ASGART/Server/Hooks/Hooks.nut' Line: 127
+[2018-11-26 10:47:32] 2: Function: 'main' File: 'ASGART/Server/Hooks/Hooks.nut' Line: 163
+[2018-11-26 10:47:32] 
+-== Local varaiable: ==-
+[2018-11-26 10:47:32] + integer: @ITERATOR@ (1)
+[2018-11-26 10:47:32] + table: k
+[2018-11-26 10:47:32] + integer: v (0)
+[2018-11-26 10:47:32] + array: eq
+[2018-11-26 10:47:32] + integer: amount (6)
+[2018-11-26 10:47:32] + string: instance (ITPO_SPEED)
+[2018-11-26 10:47:32] + integer: pid (0)
+[2018-11-26 10:47:32] + table: this
+[2018-11-26 10:47:32] + closure: myRemoveItem
+[2018-11-26 10:47:32] + nativeclosure: _removeItem
+[2018-11-26 10:47:32] + integer: amount (6)
+[2018-11-26 10:47:32] + string: instance (ITPO_SPEED)
+[2018-11-26 10:47:32] + integer: pid (0)
+[2018-11-26 10:47:32] + table: this
+[2018-11-26 10:47:32] + closure: useItemHandler
+[2018-11-26 10:47:32] + closure: takeItemHandler
+[2018-11-26 10:47:32] + closure: dropItemHandler
+[2018-11-26 10:47:32] + closure: myRemoveItem
+[2018-11-26 10:47:32] + nativeclosure: _removeItem
+[2018-11-26 10:47:32] + nativeclosure: _giveItem
+[2018-11-26 10:47:32] + array: vargv
+[2018-11-26 10:47:32] + table: this
+[2018-11-26 10:47:32] [error] Cannot load: ASGART/Server/Hooks/Hooks.nut
+[2018-11-26 10:47:32] 
+[2018-11-26 10:47:32] Server failed to start...
+[2018-11-26 10:47:43] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-26 11:09:32] -========================================-
+[2018-11-26 11:09:32] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-26 11:09:32] -========================================-
+[2018-11-26 11:09:32] -= Copyright (c) 2015-2018 GO Team
+[2018-11-26 11:09:32] -= Build date: Oct 22 2018
+[2018-11-26 11:09:32] -= Minimal build version: 5
+[2018-11-26 11:09:32] -========================================-
+[2018-11-26 11:09:32] * Public:	true
+[2018-11-26 11:09:32] * Hostname:	Gothic 2 Online
+[2018-11-26 11:09:32] * Port:		28970
+[2018-11-26 11:09:32] * Max slots:	32
+[2018-11-26 11:09:32] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-26 11:09:32] -========================================-
+[2018-11-26 11:09:32] Listening on: 192.168.0.101:28970
+[2018-11-26 11:09:32] -========================================-
+[2018-11-26 11:09:32] Autopatcher lists:
+[2018-11-26 11:09:32] * download/: 0 files, 0 MB
+[2018-11-26 11:09:32] -========================================-
+[2018-11-26 11:09:32] Loading bans...
+[2018-11-26 11:09:32] Success
+[2018-11-26 11:09:32] -========================================-
+[2018-11-26 11:09:32] Connecting with Master Server...
+[2018-11-26 11:09:32] -========================================-
+[2018-11-26 11:09:32] Server scripts:
+[2018-11-26 11:09:32] + default/server-scripts/acp.nut
+[2018-11-26 11:09:32] + ASGART/Shared/packets.nut
+[2018-11-26 11:09:32] + ASGART/Server/Function/Callbacks.nut
+[2018-11-26 11:09:32] + ASGART/Server/Class/Player.nut
+[2018-11-26 11:09:32] + ASGART/Server/Hooks/Hooks.nut
+[2018-11-26 11:09:32] Client scripts:
+[2018-11-26 11:09:32] + default/client-scripts/playerlist.nut
+[2018-11-26 11:09:32] + default/client-scripts/chat.nut
+[2018-11-26 11:09:32] + default/client-scripts/net.nut
+[2018-11-26 11:09:32] + ASGART/Shared/packets.nut
+[2018-11-26 11:09:32] + ASGART/Client/Function/Callbacks.nut
+[2018-11-26 11:09:32] [squirrel] Error syntax: 'ASGART/Client/Class/Player.nut' (Ln: 25 Col: 8): expression expected
+[2018-11-26 11:09:32] [error] Cannot load: ASGART/Client/Class/Player.nut
+[2018-11-26 11:09:32] 
+[2018-11-26 11:09:32] Server failed to start...
+[2018-11-26 11:09:38] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-26 11:09:50] -========================================-
+[2018-11-26 11:09:50] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-26 11:09:50] -========================================-
+[2018-11-26 11:09:50] -= Copyright (c) 2015-2018 GO Team
+[2018-11-26 11:09:50] -= Build date: Oct 22 2018
+[2018-11-26 11:09:50] -= Minimal build version: 5
+[2018-11-26 11:09:50] -========================================-
+[2018-11-26 11:09:50] * Public:	true
+[2018-11-26 11:09:50] * Hostname:	Gothic 2 Online
+[2018-11-26 11:09:50] * Port:		28970
+[2018-11-26 11:09:50] * Max slots:	32
+[2018-11-26 11:09:50] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-26 11:09:50] -========================================-
+[2018-11-26 11:09:50] Listening on: 192.168.0.101:28970
+[2018-11-26 11:09:50] -========================================-
+[2018-11-26 11:09:50] Autopatcher lists:
+[2018-11-26 11:09:50] * download/: 0 files, 0 MB
+[2018-11-26 11:09:50] -========================================-
+[2018-11-26 11:09:50] Loading bans...
+[2018-11-26 11:09:50] Success
+[2018-11-26 11:09:50] -========================================-
+[2018-11-26 11:09:50] Connecting with Master Server...
+[2018-11-26 11:09:50] -========================================-
+[2018-11-26 11:09:50] Server scripts:
+[2018-11-26 11:09:50] + default/server-scripts/acp.nut
+[2018-11-26 11:09:50] + ASGART/Shared/packets.nut
+[2018-11-26 11:09:50] + ASGART/Server/Function/Callbacks.nut
+[2018-11-26 11:09:50] + ASGART/Server/Class/Player.nut
+[2018-11-26 11:09:50] + ASGART/Server/Hooks/Hooks.nut
+[2018-11-26 11:09:50] Client scripts:
+[2018-11-26 11:09:50] + default/client-scripts/playerlist.nut
+[2018-11-26 11:09:50] + default/client-scripts/chat.nut
+[2018-11-26 11:09:50] + default/client-scripts/net.nut
+[2018-11-26 11:09:50] + ASGART/Shared/packets.nut
+[2018-11-26 11:09:50] + ASGART/Client/Function/Callbacks.nut
+[2018-11-26 11:09:50] [squirrel] Error syntax: 'ASGART/Client/Class/Player.nut' (Ln: 25 Col: 8): expression expected
+[2018-11-26 11:09:50] [error] Cannot load: ASGART/Client/Class/Player.nut
+[2018-11-26 11:09:51] 
+[2018-11-26 11:09:51] Server failed to start...
+[2018-11-26 11:09:54] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-26 12:35:30] -========================================-
+[2018-11-26 12:35:30] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-26 12:35:30] -========================================-
+[2018-11-26 12:35:30] -= Copyright (c) 2015-2018 GO Team
+[2018-11-26 12:35:30] -= Build date: Oct 22 2018
+[2018-11-26 12:35:30] -= Minimal build version: 5
+[2018-11-26 12:35:30] -========================================-
+[2018-11-26 12:35:30] * Public:	true
+[2018-11-26 12:35:30] * Hostname:	Gothic 2 Online
+[2018-11-26 12:35:30] * Port:		28970
+[2018-11-26 12:35:30] * Max slots:	32
+[2018-11-26 12:35:30] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-26 12:35:30] -========================================-
+[2018-11-26 12:35:30] Listening on: 192.168.0.101:28970
+[2018-11-26 12:35:30] -========================================-
+[2018-11-26 12:35:30] Autopatcher lists:
+[2018-11-26 12:35:30] * download/: 0 files, 0 MB
+[2018-11-26 12:35:30] -========================================-
+[2018-11-26 12:35:30] Loading bans...
+[2018-11-26 12:35:30] Success
+[2018-11-26 12:35:30] -========================================-
+[2018-11-26 12:35:30] Connecting with Master Server...
+[2018-11-26 12:35:30] -========================================-
+[2018-11-26 12:35:30] Server scripts:
+[2018-11-26 12:35:30] + default/server-scripts/acp.nut
+[2018-11-26 12:35:30] + ASGART/Shared/packets.nut
+[2018-11-26 12:35:30] + ASGART/Server/Function/Callbacks.nut
+[2018-11-26 12:35:30] + ASGART/Server/Class/Player.nut
+[2018-11-26 12:35:30] [squirrel] Error runtime: 'ASGART/Server/Hooks/Hooks.nut' (Ln: 61): the index 'instance' does not exist
+[2018-11-26 12:35:30] -== Stack Dump: ==-
+[2018-11-26 12:35:30] 1: Function: 'removeItem' File: 'ASGART/Server/Hooks/Hooks.nut' Line: 82
+[2018-11-26 12:35:30] 2: Function: 'main' File: 'ASGART/Server/Hooks/Hooks.nut' Line: 121
+[2018-11-26 12:35:30] 
+-== Local varaiable: ==-
+[2018-11-26 12:35:30] + integer: @ITERATOR@ (1)
+[2018-11-26 12:35:30] + table: k
+[2018-11-26 12:35:30] + integer: v (0)
+[2018-11-26 12:35:30] + instance: packet
+[2018-11-26 12:35:30] + array: eq
+[2018-11-26 12:35:30] + integer: _amount (3)
+[2018-11-26 12:35:30] + string: _instance (ITPO_SPEED)
+[2018-11-26 12:35:30] + integer: pid (0)
+[2018-11-26 12:35:30] + table: this
+[2018-11-26 12:35:30] + closure: myRemoveItem
+[2018-11-26 12:35:30] + nativeclosure: _removeItem
+[2018-11-26 12:35:30] + integer: amount (3)
+[2018-11-26 12:35:30] + string: instance (ITPO_SPEED)
+[2018-11-26 12:35:30] + integer: pid (0)
+[2018-11-26 12:35:30] + table: this
+[2018-11-26 12:35:30] + closure: useItemHandler
+[2018-11-26 12:35:30] + closure: takeItemHandler
+[2018-11-26 12:35:30] + closure: dropItemHandler
+[2018-11-26 12:35:30] + closure: myRemoveItem
+[2018-11-26 12:35:30] + nativeclosure: _removeItem
+[2018-11-26 12:35:30] + nativeclosure: _giveItem
+[2018-11-26 12:35:30] + array: vargv
+[2018-11-26 12:35:30] + table: this
+[2018-11-26 12:35:30] [error] Cannot load: ASGART/Server/Hooks/Hooks.nut
+[2018-11-26 12:35:30] 
+[2018-11-26 12:35:30] Server failed to start...
+[2018-11-26 12:35:45] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-27 03:03:37] -========================================-
+[2018-11-27 03:03:37] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-27 03:03:37] -========================================-
+[2018-11-27 03:03:37] -= Copyright (c) 2015-2018 GO Team
+[2018-11-27 03:03:37] -= Build date: Oct 22 2018
+[2018-11-27 03:03:37] -= Minimal build version: 5
+[2018-11-27 03:03:37] -========================================-
+[2018-11-27 03:03:37] * Public:	true
+[2018-11-27 03:03:37] * Hostname:	Gothic 2 Online
+[2018-11-27 03:03:37] * Port:		28970
+[2018-11-27 03:03:37] * Max slots:	32
+[2018-11-27 03:03:37] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-27 03:03:37] -========================================-
+[2018-11-27 03:03:37] Listening on: 192.168.0.101:28970
+[2018-11-27 03:03:37] -========================================-
+[2018-11-27 03:03:37] Autopatcher lists:
+[2018-11-27 03:03:37] * download/: 0 files, 0 MB
+[2018-11-27 03:03:37] -========================================-
+[2018-11-27 03:03:37] Loading bans...
+[2018-11-27 03:03:37] Success
+[2018-11-27 03:03:37] -========================================-
+[2018-11-27 03:03:37] Connecting with Master Server...
+[2018-11-27 03:03:37] -========================================-
+[2018-11-27 03:03:37] Server scripts:
+[2018-11-27 03:03:37] + default/server-scripts/acp.nut
+[2018-11-27 03:03:37] + ASGART/Shared/packets.nut
+[2018-11-27 03:03:37] + ASGART/Server/Function/Callbacks.nut
+[2018-11-27 03:03:37] + ASGART/Server/Class/Player.nut
+[2018-11-27 03:03:37] [squirrel] Error runtime: 'ASGART/Server/Hooks/Hooks.nut' (Ln: 119): the index 'find' does not exist
+[2018-11-27 03:03:37] 
+-== Local varaiable: ==-
+[2018-11-27 03:03:37] + closure: useItemHandler
+[2018-11-27 03:03:37] + closure: takeItemHandler
+[2018-11-27 03:03:37] + closure: dropItemHandler
+[2018-11-27 03:03:37] + closure: myRemoveItem
+[2018-11-27 03:03:37] + nativeclosure: _removeItem
+[2018-11-27 03:03:37] + nativeclosure: _giveItem
+[2018-11-27 03:03:37] + array: vargv
+[2018-11-27 03:03:37] + table: this
+[2018-11-27 03:03:37] [error] Cannot load: ASGART/Server/Hooks/Hooks.nut
+[2018-11-27 03:03:38] 
+[2018-11-27 03:03:38] Server failed to start...
+[2018-11-27 03:03:43] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-27 03:04:10] -========================================-
+[2018-11-27 03:04:10] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-27 03:04:10] -========================================-
+[2018-11-27 03:04:10] -= Copyright (c) 2015-2018 GO Team
+[2018-11-27 03:04:10] -= Build date: Oct 22 2018
+[2018-11-27 03:04:10] -= Minimal build version: 5
+[2018-11-27 03:04:10] -========================================-
+[2018-11-27 03:04:10] * Public:	true
+[2018-11-27 03:04:10] * Hostname:	Gothic 2 Online
+[2018-11-27 03:04:10] * Port:		28970
+[2018-11-27 03:04:10] * Max slots:	32
+[2018-11-27 03:04:10] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-27 03:04:10] -========================================-
+[2018-11-27 03:04:10] Listening on: 192.168.0.101:28970
+[2018-11-27 03:04:10] -========================================-
+[2018-11-27 03:04:10] Autopatcher lists:
+[2018-11-27 03:04:10] * download/: 0 files, 0 MB
+[2018-11-27 03:04:10] -========================================-
+[2018-11-27 03:04:10] Loading bans...
+[2018-11-27 03:04:10] Success
+[2018-11-27 03:04:10] -========================================-
+[2018-11-27 03:04:10] Connecting with Master Server...
+[2018-11-27 03:04:10] -========================================-
+[2018-11-27 03:04:10] Server scripts:
+[2018-11-27 03:04:10] + default/server-scripts/acp.nut
+[2018-11-27 03:04:10] + ASGART/Shared/packets.nut
+[2018-11-27 03:04:10] + ASGART/Server/Function/Callbacks.nut
+[2018-11-27 03:04:10] + ASGART/Server/Class/Player.nut
+[2018-11-27 03:04:10] [squirrel] Error syntax: 'ASGART/Server/Hooks/Hooks.nut' (Ln: 119 Col: 46): expected ':'
+[2018-11-27 03:04:10] [error] Cannot load: ASGART/Server/Hooks/Hooks.nut
+[2018-11-27 03:04:10] 
+[2018-11-27 03:04:10] Server failed to start...
+[2018-11-27 03:04:13] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-27 03:04:23] -========================================-
+[2018-11-27 03:04:23] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-27 03:04:23] -========================================-
+[2018-11-27 03:04:23] -= Copyright (c) 2015-2018 GO Team
+[2018-11-27 03:04:23] -= Build date: Oct 22 2018
+[2018-11-27 03:04:23] -= Minimal build version: 5
+[2018-11-27 03:04:23] -========================================-
+[2018-11-27 03:04:23] * Public:	true
+[2018-11-27 03:04:23] * Hostname:	Gothic 2 Online
+[2018-11-27 03:04:23] * Port:		28970
+[2018-11-27 03:04:23] * Max slots:	32
+[2018-11-27 03:04:23] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-27 03:04:23] -========================================-
+[2018-11-27 03:04:23] Listening on: 192.168.0.101:28970
+[2018-11-27 03:04:23] -========================================-
+[2018-11-27 03:04:23] Autopatcher lists:
+[2018-11-27 03:04:23] * download/: 0 files, 0 MB
+[2018-11-27 03:04:23] -========================================-
+[2018-11-27 03:04:23] Loading bans...
+[2018-11-27 03:04:23] Success
+[2018-11-27 03:04:23] -========================================-
+[2018-11-27 03:04:23] Connecting with Master Server...
+[2018-11-27 03:04:23] -========================================-
+[2018-11-27 03:04:23] Server scripts:
+[2018-11-27 03:04:23] + default/server-scripts/acp.nut
+[2018-11-27 03:04:23] + ASGART/Shared/packets.nut
+[2018-11-27 03:04:23] + ASGART/Server/Function/Callbacks.nut
+[2018-11-27 03:04:23] + ASGART/Server/Class/Player.nut
+[2018-11-27 03:04:23] [squirrel] Error syntax: 'ASGART/Server/Hooks/Hooks.nut' (Ln: 119 Col: 44): expected '='
+[2018-11-27 03:04:23] [error] Cannot load: ASGART/Server/Hooks/Hooks.nut
+[2018-11-27 03:04:23] 
+[2018-11-27 03:04:23] Server failed to start...
+[2018-11-27 03:04:26] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-27 03:04:35] -========================================-
+[2018-11-27 03:04:35] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-27 03:04:35] -========================================-
+[2018-11-27 03:04:35] -= Copyright (c) 2015-2018 GO Team
+[2018-11-27 03:04:35] -= Build date: Oct 22 2018
+[2018-11-27 03:04:35] -= Minimal build version: 5
+[2018-11-27 03:04:35] -========================================-
+[2018-11-27 03:04:35] * Public:	true
+[2018-11-27 03:04:35] * Hostname:	Gothic 2 Online
+[2018-11-27 03:04:35] * Port:		28970
+[2018-11-27 03:04:35] * Max slots:	32
+[2018-11-27 03:04:35] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-27 03:04:35] -========================================-
+[2018-11-27 03:04:35] Listening on: 192.168.0.101:28970
+[2018-11-27 03:04:35] -========================================-
+[2018-11-27 03:04:35] Autopatcher lists:
+[2018-11-27 03:04:35] * download/: 0 files, 0 MB
+[2018-11-27 03:04:35] -========================================-
+[2018-11-27 03:04:35] Loading bans...
+[2018-11-27 03:04:35] Success
+[2018-11-27 03:04:35] -========================================-
+[2018-11-27 03:04:35] Connecting with Master Server...
+[2018-11-27 03:04:35] -========================================-
+[2018-11-27 03:04:35] Server scripts:
+[2018-11-27 03:04:35] + default/server-scripts/acp.nut
+[2018-11-27 03:04:35] + ASGART/Shared/packets.nut
+[2018-11-27 03:04:35] + ASGART/Server/Function/Callbacks.nut
+[2018-11-27 03:04:35] + ASGART/Server/Class/Player.nut
+[2018-11-27 03:04:35] [squirrel] Error syntax: 'ASGART/Server/Hooks/Hooks.nut' (Ln: 119 Col: 44): expected '='
+[2018-11-27 03:04:35] [error] Cannot load: ASGART/Server/Hooks/Hooks.nut
+[2018-11-27 03:04:35] 
+[2018-11-27 03:04:35] Server failed to start...
+[2018-11-27 03:04:37] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-27 03:04:45] -========================================-
+[2018-11-27 03:04:45] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-27 03:04:45] -========================================-
+[2018-11-27 03:04:45] -= Copyright (c) 2015-2018 GO Team
+[2018-11-27 03:04:45] -= Build date: Oct 22 2018
+[2018-11-27 03:04:45] -= Minimal build version: 5
+[2018-11-27 03:04:45] -========================================-
+[2018-11-27 03:04:45] * Public:	true
+[2018-11-27 03:04:45] * Hostname:	Gothic 2 Online
+[2018-11-27 03:04:45] * Port:		28970
+[2018-11-27 03:04:45] * Max slots:	32
+[2018-11-27 03:04:45] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-27 03:04:45] -========================================-
+[2018-11-27 03:04:45] Listening on: 192.168.0.101:28970
+[2018-11-27 03:04:45] -========================================-
+[2018-11-27 03:04:45] Autopatcher lists:
+[2018-11-27 03:04:45] * download/: 0 files, 0 MB
+[2018-11-27 03:04:45] -========================================-
+[2018-11-27 03:04:45] Loading bans...
+[2018-11-27 03:04:45] Success
+[2018-11-27 03:04:45] -========================================-
+[2018-11-27 03:04:45] Connecting with Master Server...
+[2018-11-27 03:04:45] -========================================-
+[2018-11-27 03:04:45] Server scripts:
+[2018-11-27 03:04:45] + default/server-scripts/acp.nut
+[2018-11-27 03:04:45] + ASGART/Shared/packets.nut
+[2018-11-27 03:04:45] + ASGART/Server/Function/Callbacks.nut
+[2018-11-27 03:04:45] + ASGART/Server/Class/Player.nut
+[2018-11-27 03:04:45] [squirrel] Error syntax: 'ASGART/Server/Hooks/Hooks.nut' (Ln: 119 Col: 46): expected ':'
+[2018-11-27 03:04:45] [error] Cannot load: ASGART/Server/Hooks/Hooks.nut
+[2018-11-27 03:04:46] 
+[2018-11-27 03:04:46] Server failed to start...
+[2018-11-27 03:05:01] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-27 03:05:06] -========================================-
+[2018-11-27 03:05:06] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-27 03:05:06] -========================================-
+[2018-11-27 03:05:06] -= Copyright (c) 2015-2018 GO Team
+[2018-11-27 03:05:06] -= Build date: Oct 22 2018
+[2018-11-27 03:05:06] -= Minimal build version: 5
+[2018-11-27 03:05:06] -========================================-
+[2018-11-27 03:05:06] * Public:	true
+[2018-11-27 03:05:06] * Hostname:	Gothic 2 Online
+[2018-11-27 03:05:06] * Port:		28970
+[2018-11-27 03:05:06] * Max slots:	32
+[2018-11-27 03:05:06] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-27 03:05:06] -========================================-
+[2018-11-27 03:05:06] Listening on: 192.168.0.101:28970
+[2018-11-27 03:05:06] -========================================-
+[2018-11-27 03:05:06] Autopatcher lists:
+[2018-11-27 03:05:06] * download/: 0 files, 0 MB
+[2018-11-27 03:05:06] -========================================-
+[2018-11-27 03:05:06] Loading bans...
+[2018-11-27 03:05:06] Success
+[2018-11-27 03:05:06] -========================================-
+[2018-11-27 03:05:06] Connecting with Master Server...
+[2018-11-27 03:05:06] -========================================-
+[2018-11-27 03:05:06] Server scripts:
+[2018-11-27 03:05:06] + default/server-scripts/acp.nut
+[2018-11-27 03:05:06] + ASGART/Shared/packets.nut
+[2018-11-27 03:05:06] + ASGART/Server/Function/Callbacks.nut
+[2018-11-27 03:05:06] + ASGART/Server/Class/Player.nut
+[2018-11-27 03:05:06] [squirrel] Error syntax: 'ASGART/Server/Hooks/Hooks.nut' (Ln: 119 Col: 46): expected ':'
+[2018-11-27 03:05:06] [error] Cannot load: ASGART/Server/Hooks/Hooks.nut
+[2018-11-27 03:05:06] 
+[2018-11-27 03:05:06] Server failed to start...
+[2018-11-27 03:05:08] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-27 03:05:25] -========================================-
+[2018-11-27 03:05:25] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-27 03:05:25] -========================================-
+[2018-11-27 03:05:25] -= Copyright (c) 2015-2018 GO Team
+[2018-11-27 03:05:25] -= Build date: Oct 22 2018
+[2018-11-27 03:05:25] -= Minimal build version: 5
+[2018-11-27 03:05:25] -========================================-
+[2018-11-27 03:05:25] * Public:	true
+[2018-11-27 03:05:25] * Hostname:	Gothic 2 Online
+[2018-11-27 03:05:25] * Port:		28970
+[2018-11-27 03:05:25] * Max slots:	32
+[2018-11-27 03:05:25] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-27 03:05:25] -========================================-
+[2018-11-27 03:05:25] Listening on: 192.168.0.101:28970
+[2018-11-27 03:05:25] -========================================-
+[2018-11-27 03:05:25] Autopatcher lists:
+[2018-11-27 03:05:25] * download/: 0 files, 0 MB
+[2018-11-27 03:05:25] -========================================-
+[2018-11-27 03:05:25] Loading bans...
+[2018-11-27 03:05:25] Success
+[2018-11-27 03:05:25] -========================================-
+[2018-11-27 03:05:25] Connecting with Master Server...
+[2018-11-27 03:05:25] -========================================-
+[2018-11-27 03:05:25] Server scripts:
+[2018-11-27 03:05:25] + default/server-scripts/acp.nut
+[2018-11-27 03:05:25] + ASGART/Shared/packets.nut
+[2018-11-27 03:05:25] + ASGART/Server/Function/Callbacks.nut
+[2018-11-27 03:05:25] + ASGART/Server/Class/Player.nut
+[2018-11-27 03:05:25] [squirrel] Error syntax: 'ASGART/Server/Hooks/Hooks.nut' (Ln: 119 Col: 42): expected '='
+[2018-11-27 03:05:25] [error] Cannot load: ASGART/Server/Hooks/Hooks.nut
+[2018-11-27 03:05:25] 
+[2018-11-27 03:05:25] Server failed to start...
+[2018-11-27 03:05:29] Warrning! Please use CTRL + C, instead of close button to properly close the application.
+[2018-11-27 03:06:03] -========================================-
+[2018-11-27 03:06:03] -= Gothic Online: Night of the Raven v0.1.4.5
+[2018-11-27 03:06:03] -========================================-
+[2018-11-27 03:06:03] -= Copyright (c) 2015-2018 GO Team
+[2018-11-27 03:06:03] -= Build date: Oct 22 2018
+[2018-11-27 03:06:03] -= Minimal build version: 5
+[2018-11-27 03:06:03] -========================================-
+[2018-11-27 03:06:03] * Public:	true
+[2018-11-27 03:06:03] * Hostname:	Gothic 2 Online
+[2018-11-27 03:06:03] * Port:		28970
+[2018-11-27 03:06:03] * Max slots:	32
+[2018-11-27 03:06:03] * World:	NEWWORLD\NEWWORLD.ZEN
+[2018-11-27 03:06:03] -========================================-
+[2018-11-27 03:06:04] Listening on: 192.168.0.101:28970
+[2018-11-27 03:06:04] -========================================-
+[2018-11-27 03:06:04] Autopatcher lists:
+[2018-11-27 03:06:04] * download/: 0 files, 0 MB
+[2018-11-27 03:06:04] -========================================-
+[2018-11-27 03:06:04] Loading bans...
+[2018-11-27 03:06:04] Success
+[2018-11-27 03:06:04] -========================================-
+[2018-11-27 03:06:04] Connecting with Master Server...
+[2018-11-27 03:06:04] -========================================-
+[2018-11-27 03:06:04] Server scripts:
+[2018-11-27 03:06:04] + default/server-scripts/acp.nut
+[2018-11-27 03:06:04] + ASGART/Shared/packets.nut
+[2018-11-27 03:06:04] + ASGART/Server/Function/Callbacks.nut
+[2018-11-27 03:06:04] + ASGART/Server/Class/Player.nut
+[2018-11-27 03:06:04] [squirrel] Error syntax: 'ASGART/Server/Hooks/Hooks.nut' (Ln: 119 Col: 37): expected '='
+[2018-11-27 03:06:04] [error] Cannot load: ASGART/Server/Hooks/Hooks.nut
+[2018-11-27 03:06:04] 
+[2018-11-27 03:06:04] Server failed to start...
+[2018-11-27 03:06:07] Warrning! Please use CTRL + C, instead of close button to properly close the application.

@@ -1,0 +1,689 @@
+// BASIC INFORMATION
+# heroId
+To get on client side local player id, use heroId
+Example:
+local pos = getPlayerPosition(heroId);
+
+# Generated items and mds id (both sides)
+To get Item or Mds id use (instance has to be upper case!):
+local item = Items.id("ITAR_PAL_H");
+local mds = Mds.id("HUMANS_1HST2.MDS");
+
+If Item or Mds didn't exist on list function will return -1
+
+To get Item or Mds name by id use:
+local item = Items.name(123);
+local mds = Mds.name(87);
+
+If Item or Mds didn't exist on list function will return null
+
+// MULTIPLAYER CLASSES (cannot be constructed from scripts)
+int ItemGround.id
+string ItemGround.instance
+int ItemGround.amount
+string ItemGround.world
+int ItemGround.virtualWorld
+table {x, y, z} ItemGround.getPosition()
+
+// SERVER FUNCTION
+
+//Chat
+void sendMessageToAll(int r, int g, int b, string message)
+void sendMessageToPlayer(int id, int r, int g, int b, string message)
+void sendPlayerMessageToPlayer(int sender_id, int recv_id, int r, int g, int b, string message)
+void sendPlayerMessageToAll(int id, int r, int g, int b, string message)
+
+//Player
+string getPlayerWorld(int playerid)
+void setPlayerWorld(int playerid, string world)
+int getPlayerPing(int pid)
+void kick(int pid, string reason)
+void ban(int pid, int minutes, string reason)
+int getPlayerAniId(int pid)
+int getPlayerVirtualWorld(int pid)
+void setPlayerVirtualWorld(int pid, int virtualWorld)
+string getPlayerIP(int pid)
+string getPlayerSerial(int pid)
+string getPlayerMacAddr(int pid)
+void playAniId(int pid, int id)
+void stopAni(int pid)
+int getAniId(int pid)
+int getPlayerArmor(int pid)
+int getPlayerMeleeWeapon(int pid)
+int getPlayerRangedWeapon(int pid)
+int getPlayerHelmet(int pid)
+int getPlayerShield(int pid)
+void setPlayerMana(int pid, int value)
+void setPlayerMaxMana(int pid, int value)
+int getPlayerMana(int id)
+int getPlayerMaxMana(int id)
+void setPlayerMagicLevel(int pid, int value[1-6])
+void setPlayerRespawnTime(int pid, int time) // int time>1000
+int getPlayerRespawnTime(int pid)
+void spawnPlayer(int id)
+void unspawnPlayer(int id)
+bool isPlayerConnected(int id)
+bool isPlayerSpawned(int id)
+bool isPlayerDead(int id)
+bool isPlayerUnconscious(int id)
+int getPlayerFocus(int id)
+void setPlayerName(int id, string name)
+string getPlayerName(int id)
+void setPlayerColor(int id, int r, int g, int b)
+table {r, g, b} getPlayerColor(int id)
+void setPlayerPosition(int id, int x, int y, int z)
+table {x, y, z} getPlayerPosition(int id)
+void setPlayerAngle(int id, int angle)
+float getPlayerAngle(int id)
+void setPlayerHealth(int id, int hp)
+int getPlayerHealth(int id)
+void setPlayerMaxHealth(int id, int maxHp)
+int getPlayerMaxHealth(int id)
+void setPlayerWeaponMode(int id, int wm)
+int getPlayerWeaponMode(int id)
+void setPlayerStrength(int id, int str)
+int getPlayerStrength(int id)
+void setPlayerDexterity(int id, int dex)
+int getPlayerDexterity(int id)
+void setPlayerSkillWeapon(int id, int skill_id, int value)
+int getPlayerSkillWeapon(int id)
+void setPlayerTalent(int id, int talent_id, int value)
+int getPlayerTalent(id, talent_id)
+void setPlayerVisual(int pid, string bodyModel, int bodyTxt, string headModel, int headTxt)
+table {bodyModel, bodyTxt, headModel, headTxt} getPlayerVisual(int pid)
+bool applyPlayerOverlay(int pid, int overlay)
+bool removePlayerOverlay(int pid, int overlay)
+void equipArmor(int id, int instance)
+void unequipArmor(int id)
+void equipMeleeWeapon(int id, int instance)
+void unequipMeleeWeapon(int id)
+void equipRangedWeapon(int id, int instance)
+void unequipRangedWeapon(id)
+void equipHelmet(int id, int instance)
+void unequipHelmet(int id)
+void equipShield(int id, int instance)
+void unequipShield(int id)
+
+//Item
+void giveItem(int id, int instance, amount)
+void removeItem(id, int instance, amount)
+void equipItem(int playerid, string instance)
+void unequipItem(int playerid, string instance)
+ItemGround = ItemsGround.spawn(int item_id, int amount, float x, float y, float z, string world[, int virtualWorld])
+ItemsGround.destroy(int ground_id)
+ItemGround = ItemsGround.id(int ground_id)
+
+//Server
+string getServerDescription()
+void setServerDescription(string description)
+string getServerWorld()
+void setServerWorld(string world)
+
+//Network
+int getMaxSlots()
+int getPlayersCount()
+
+//Packet
+void Packet.reset()
+void Packet.send(int id, int reliability)
+void Packet.sendToAll(int reliability)
+void Packet.writeBool(bool value)
+void Packet.writeChar(char value)
+void Packet.writeInt8(int value)
+void Packet.writeUInt8(int value)
+void Packet.writeInt16(int value)
+void Packet.writeUInt16(int value)
+void Packet.writeInt32(int value)
+void Packet.writeUInt32(int value)
+void Packet.writeFloat(float value)
+void Packet.writeString(string value)
+bool Packet.readBool()
+char Packet.readChar()
+int Packet.readInt8()
+int Packet.readUInt8()
+int Packet.readInt16()
+int Packet.readUInt16()
+int Packet.readInt32()
+int Packet.readUInt32()
+float Packet.readFloat()
+string Packet.readString()
+
+//Waynet
+table {x,y,z} getWaypoint(string world, string wp_name)
+class Way(string StartWP, string EndWP)
+string Way::start //Read only
+string Way::end //Read only
+int Way::getCountWaypoints()
+array<string> Way::getWaypoints()
+
+// CLIENT FUNCTION
+
+//Npc
+int createNpc(name)
+bool spawnNpc(id)
+bool unspawnNpc(id)
+bool destroyNpc(id)
+void attackPlayer(int pid, int id, int combination)
+void attackPlayerRanged(int pid, int id)
+void attackPlayerMagic(int pid, int id, int itemId)
+
+//Item
+string getItemName(string instance)
+string getItemDescription(string instance)
+int getItemValue(string instance)
+table {instance, damage, value, range, condatr, condvalue, name, visual, description, material, mag_circle, damageType, protection[8], munition} getItemInfo();
+
+New consts for getItemInfo (damageType etc. from g2notr scripts, soon we'll also add hasFlag function):
+const int ITEM_KAT_NONE		= 1 <<  0;  // Sonstiges
+const int ITEM_KAT_NF		= 1 <<  1;  // Nahkampfwaffen
+const int ITEM_KAT_FF		= 1 <<  2;  // Fernkampfwaffen
+const int ITEM_KAT_MUN		= 1 <<  3;  // Munition (MULTI)
+const int ITEM_KAT_ARMOR	= 1 <<  4;  // Ruestungen
+const int ITEM_KAT_FOOD		= 1 <<  5;  // Nahrungsmittel (MULTI)
+const int ITEM_KAT_DOCS		= 1 <<  6;  // Dokumente
+const int ITEM_KAT_POTIONS	= 1 <<  7;  // Traenke
+const int ITEM_KAT_LIGHT	= 1 <<  8;  // Lichtquellen
+const int ITEM_KAT_RUNE		= 1 <<  9;  // Runen/Scrolls
+const int ITEM_KAT_MAGIC	= 1 << 31;  // Ringe/Amulette/Guertel
+const int ITEM_KAT_KEYS		= ITEM_KAT_NONE;
+// weapon type (flags)
+const int ITEM_DAG			= 1 << 13;  // (OBSOLETE!)
+const int ITEM_SWD			= 1 << 14;  // Schwert
+const int ITEM_AXE			= 1 << 15;  // Axt
+const int ITEM_2HD_SWD		= 1 << 16;  // Zweihaender
+const int ITEM_2HD_AXE		= 1 << 17;  // Streitaxt
+const int ITEM_SHIELD		= 1 << 18;  // (OBSOLETE!)
+const int ITEM_BOW			= 1 << 19;  // Bogen
+const int ITEM_CROSSBOW		= 1 << 20;  // Armbrust
+// magic type (flags)
+const int ITEM_RING			= 1 << 11;  // Ring
+const int ITEM_AMULET		= 1 << 22;  // Amulett
+const int ITEM_BELT			= 1 << 24;  // Guertel
+// attributes (flags)
+const int ITEM_DROPPED 		= 1 << 10;  // (INTERNAL!)
+const int ITEM_MISSION 		= 1 << 12;  // Missionsgegenstand
+const int ITEM_MULTI		= 1 << 21;  // Stapelbar
+const int ITEM_NFOCUS		= 1 << 23;  // (INTERNAL!)
+const int ITEM_CREATEAMMO	= 1 << 25;  // Erzeugt Munition selbst (magisch)
+const int ITEM_NSPLIT		= 1 << 26;  // Kein Split-Item (Waffe als Interact-Item!)
+const int ITEM_DRINK		= 1 << 27;  // (OBSOLETE!)
+const int ITEM_TORCH		= 1 << 28;  // Fackel
+const int ITEM_THROW		= 1 << 29;  // (OBSOLETE!)
+const int ITEM_ACTIVE		= 1 << 30;  // (INTERNAL!)
+
+//Chat
+bool chatInputIsOpen()
+void chatInputOpen()
+void chatInputClose()
+void chatInputClear()
+void chatInputSend()
+void chatInputSetText(string text)
+string chatInputGetText()
+void chatInputSetPosition(int x, int y)
+table {x, y} chatInputGetPosition()
+
+//Interface
+int anx(int virtToPx)
+int any(int virtToPx)
+int nax(int pxToVirt)
+int nay(int pxToVirt)
+void showPlayerStatus(bool toggle)
+void enableHud(int type, bool toggle)
+bool isHudEnabled(int type)
+bool isConsoleOpen()
+void setBarPosition(int type, int x, int y)
+table {x, y} getBarPosition(int type)
+void setBarSize(int type, int width, int height)
+table {width, height} getBarSize(int type)
+
+//Text
+void textSetFont(string font)
+int textWidth(string text)
+int textWidthPx(string text)
+int letterWidth(char letter)
+int letterWidthPx(char letter)
+int letterDistance()
+int letterDistancePx()
+
+//Game
+void exitGame()
+int getFpsRate()
+table {x, y} getResolution()
+void setSightFactor(float factor)
+float getSightFactor()
+void enable_NicknameId(bool toggle)
+
+//Player
+string getWorld()
+void clearInventory()
+void changeWorld(string world)
+void playGesticulation(int pid)
+setGuild(int id)
+int getGuildId()
+string getGuildName()
+void setLevel(int lvl)
+int getLevel()
+void setExp(int exp)
+int getExp()
+void setFreeze(bool toggle)
+bool isFrozen()
+void openInventory()
+void closeInventory()
+bool equipArmor(int id, int instance)
+void unequipArmor(int id)
+bool equipMeleeWeapon(int id, int instance)
+void unequipMeleeWeapon(int id)
+bool equipRangedWeapon(int id, int instance)
+void unequipRangedWeapon(int id)
+bool equipHelmet(int id, int instance)
+void unequipHelmet(int id)
+bool equipShield(int id, int instance)
+void unequipShield(int id)
+void playAniId(int pid, int id)
+void playAni(int pid, string name)
+void stopAni(int pid)
+bool isInventoryOpen()
+bool hasItem(string instance)
+bool isInWater()
+table {instance, amount, name} getItemBySlot(int slot)
+array [table {instance, amount, name}] getEq()
+int getPlayerPing(int pid)
+int getPlayerDexterity(int pid)
+void setPlayerDexterity(int pid, int dex)
+int getPlayerStrength(int pid)
+void setPlayerStrength(int pid, int str)
+table {x, y, z} getPlayerScale(int pid)
+void setPlayerScale(int pid, float x, float y, float z)
+string getPlayerInstance(int pid)
+void setPlayerInstance(int pid, string instance)
+void setPlayerOnFloor(int pid)
+void setNextLevelExp(int exp)
+int getNextLevelExp()
+void setLearnPoints(int lp)
+int getLearnPoints()
+int getPlayerPing(int id)
+string getPlayerName(int id)
+void setPlayerName(int id, string name)
+table {r, g, b} getPlayerColor(int id)
+void setPlayerColor(int id, int r, int g, int b)
+int getPlayerType(int id)
+bool isPlayerCreated(int id)
+bool isPlayerStreamed(int id)
+bool isPlayerDead(int id)
+bool isPlayerUnconscious(int id)
+void setPlayerPosition(int id, float x, float y, float z)
+table {x, y, z} getPlayerPosition(int id)
+void setPlayerAngle(int id, float angle)
+float getPlayerAngle(int id)
+void setPlayerCollision(int id, bool toggle)
+bool getPlayerCollision(int id)
+void setPlayerVisual(int pid, string bodyModel, int bodyTxt, string headModel, int headTxt)
+table {bodyModel, bodyTxt, headModel, headTxt} getPlayerVisual(int pid)
+void setPlayerFatness(int pid, float fatness)
+float getPlayerFatness(int pid)
+int getPlayerHealth(int pid)
+void setPlayerHealth(int pid, int health)
+int getPlayerMaxHealth(int pid)
+void setPlayerMaxHealth(int pid, int health)
+int getPlayerWeaponMode(int pid)
+void setPlayerWeaponMode(int pid, int weaponMode)
+string getPlayerAni(int pid)
+int getPlayerAniId(int pid)
+bool hitPlayer(int killerid, int playerid)
+int getPlayerArmor(int pid)
+int getPlayerMeleeWeapon(int pid)
+int getPlayerRangedWeapon(int pid)
+int getPlayerHelmet(int pid)
+int getPlayerShield(int pid)
+void setPlayerSkillWeapon(int pid, int skill, int percent)
+void getPlayerSkillWeapon(int pid, int skill)
+
+//Cursor
+void setCursorVisible(bool toggle)
+bool isCursorVisible()
+void setCursorSensitivity(float factor)
+float getCursorSensitivity()
+void setCursorTxt(string texture)
+string getCursorTxt()
+void setCursorPosition(int x, int y)
+void setCursorPositionPx(int x, int y)
+table {x, y} getCursorPosition()
+table {x, y} getCursorPositionPx()
+bool isMouseBtnPressed(int button)
+
+//Packet
+void Packet.reset()
+void Packet.send(int reliability)
+void Packet.writeBool(bool value)
+void Packet.writeChar(char value)
+void Packet.writeInt8(int value)
+void Packet.writeUInt8(int value)
+void Packet.writeInt16(int value)
+void Packet.writeUInt16(int value)
+void Packet.writeInt32(int value)
+void Packet.writeUInt32(int value)
+void Packet.writeFloat(float value)
+void Packet.writeString(string value)
+bool Packet.readBool()
+char Packet.readChar()
+int Packet.readInt8()
+int Packet.readUInt8()
+int Packet.readInt16()
+int Packet.readUInt16()
+int Packet.readInt32()
+int Packet.readUInt32()
+float Packet.readFloat()
+string Packet.readString()
+
+//Cryptography
+string fileMd5(string filePath)
+
+//Vob
+Vob(userpointer addres)
+Vob(string instance)
+Vob.collision = true/false (Property)
+table {x, y, z} Vob.getPosition()
+table {x, y, z} Vob.getRotation()
+void Vob.setPosition(float x, float y, float z)
+void Vob.setRotation(float x, float y, float z)
+string Vob.getVisual()
+void Vob.setVisual(string instance)
+void Vob.floor()
+
+//Mob
+Mob(userpointer addres)
+Mob(string instance)
+Mob.collision = bool (Property)
+Mob.name = string (Property)
+table {x, y, z} Mob.getPosition()
+table {x, y, z} Mob.getRotation()
+void Mob.setPosition(float x, float y, float z)
+void Mob.setRotation(float x, float y, float z)
+string Mob.getVisual()
+void Mob.setVisual(string instance)
+void Mob.floor()
+Mob.ptr
+
+//MobInter
+MobInter(userpointer addres)
+MobInter(string instance)
+MobInter.collision = bool (Property)
+MobInter.name = string (Property)
+table {x, y, z} MobInter.getPosition()
+table {x, y, z} MobInter.getRotation()
+void MobInter.setPosition(float x, float y, float z)
+void MobInter.setRotation(float x, float y, float z)
+string MobInter.getVisual()
+void MobInter.setVisual(string instance)
+void MobInter.floor()
+
+//MobLockable
+MobLockable(userpointer addres)
+MobLockable(string instance)
+MobLockable.collision = bool (Property)
+MobLockable.name = string (Property)
+MobLockable.locked = bool (Property)
+table {x, y, z} MobLockable.getPosition()
+table {x, y, z} MobLockable.getRotation()
+void MobLockable.setPosition(float x, float y, float z)
+void MobLockable.setRotation(float x, float y, float z)
+string MobLockable.getVisual()
+void MobLockable.setVisual(string instance)
+void MobLockable.floor()
+
+//Draw
+Draw(int x, int y, string text)
+bool Draw.visible
+string Draw.text
+string Draw.font
+int Draw.width
+int Draw.widthPx
+int Draw.height
+int Draw.heightPx
+void Draw.top()
+void Draw.setColor(int r, int g, int b)
+table {r, g, b} Draw.getColor()
+void Draw.setAlpha(int alpha)
+int Draw.getAlpha()
+void Draw.setPosition(int x, int y)
+void Draw.setPositionPx(int x, int y)
+table {x, y} Draw.getPosition()
+table {x, y} Draw.getPositionPx()
+
+//Draw 3D
+Draw3d(float x, float y, float z)
+bool Draw3d.visible
+string Draw3d.font
+void Draw3d.top()
+void Draw3d.setColor(int r, int g, int b)
+table {r, g, b} Draw3d.getColor()
+void Draw3d.setAlpha(int alpha)
+int Draw3d.getAlpha()
+void Draw3d.insertText(string text)
+void Draw3d.removeText(int position)
+void Draw3d.updateText(int position, string text)
+string Draw3d.getText()
+void Draw3d.setWorldPosition(float x, float y, float z)
+table {x, y, z} Draw3d.getWorldPosition()
+
+//Texture
+Texture(int x, int y, int width, int height, string filename)
+bool Texture.visible
+string Texture.file
+void Texture.top()
+void Texture.setColor(int r, int g, int b)
+table {r, g, b} Texture.getColor()
+void Texture.setAlpha(int alpha)
+int Texture.getAlpha()
+void Texture.setPosition(int x, int y)
+void Texture.setPositionPx(int x, int y)
+table {x, y} Texture.getPosition()
+table {x, y} Texture.getPositionPx()
+void Texture.setSize(int width, int height)
+void Texture.setSizePx(int width, int height)
+table {width, height} Texture.getSize()
+table {width, height} Texture.getSizePx()
+void Texture.setRect(int x, int y, int widht, int height)
+void Texture.setRectPx(int x, int y, int widht, int height)
+table {width, height} Texture.getRect()
+table {width, height} Texture.getRectPx()
+
+//Key
+void enableKeys(bool toggle)
+bool isKeysEnabled()
+void disableKey(int key, bool toggle)
+bool isKeyDisabled(int key)
+bool isKeyPressed(int key)
+char getKeyLetter(int key)
+void disableControls(bool toggle)
+bool isControlsDisabled()
+void setKeyLayout(int langId) 0 - EN | 1 - PL | 2 - RU | 3 - DE
+int getKeyLayout()
+
+
+//Multiplayer
+void enableEvent_Render(bool toggle)
+void enableEvent_RenderFocus(bool toggle)
+void enable_DamageAnims(toggle)
+string getHostname()
+int getPingLimit()
+void setPingLimit(int ping)
+clearMultiplayerMessages()
+
+
+//Network
+table {packetReceived, packetlossTotal, packetlossLastSecond, messagesInResendBuffer, messageInSendBuffer, bytesInResendBuffer, bytesInSendBuffer} getNetworkStats()
+
+
+//Camera
+void Camera.setMode(string mode)
+string Camera.getMode()
+void Camera.setPosition(float x, float y, float z)
+table {float x, float y, float z} Camera.getPosition()
+int Camera.setRotation(float x, float y, float z)
+table {float x, float y, float z} Camera.getRotation()
+void Camera.enableMovement(bool flag)
+void Camera.setTargetVob(userpointer vob)
+int Camera.setTargetPlayer(int id)
+bool Camera.collision
+bool Camera.modeChangeEnabled
+
+//Waynet
+table {x,y,z} getWaypoint(string name)
+table {name, x, y, z} getNearestWaypoint()
+class Way(string StartWP, string EndWP)
+string Way::start //Read only
+string Way::end //Read only
+int Way::getCountWaypoints()
+array<string> Way::getWaypoints()
+
+//Sound
+Sound(string filename)
+int Sound.playingTime (as msec)
+float Sound.volume [0, 1]
+bool Sound.looping
+float Sound.balance [-1, 1]
+void Sound.play()
+void Sound.stop()
+
+//Sound 3D
+Sound3d(string filename)
+int Sound3d.playingTime (as msec)
+float Sound3d.volume [0, 1]
+bool Sound3d.looping
+float Sound3d.balance [-1, 1]
+float Sound3d.obstruction
+int Sound3d.radius
+float Sound3d.coneAngle
+float Sound3d.reverbLevel
+bool Sound3d.ambient
+float Sound3d.pitchOffset
+void Sound3d.play()
+void Sound3d.stop()
+void Sound3d.setTargetVob(Vob vob)
+void Sound3d.setTargetPlayer(int id)
+
+
+// SERVER EVENTS
+    
+onInit()
+onPlayerCommand(int id, string cmd, string params)
+onPlayerMessage(int id, string message)
+onPlayerJoin(int id)
+onPlayerDisconnect(int id, int reason)
+onPlayerChangeHealth(int id, int oldHp, int currHp)
+onPlayerChangeMaxHealth(int id, int oldMaxHp, int currMaxHp)
+onPlayerRespawn(int id)
+onPlayerDead(int id, int killer_id)
+onPlayerUnconscious(int id, int killer_id)
+onPlayerHit(int id, int killer_id, int dmg, int type)
+onPlayerChangeWeaponMode(int pid, int oldWm, int currWm)
+onPlayerChangeFocus(int pid, int oldFocusId, int currFocusId)
+onPlayerChangeColor(int pid, int r, int g, int b)
+onPlayerEquipArmor(int pid, string instance)
+onPlayerEquipHelmet(int pid, string instance)
+onPlayerEquipMeleeWeapon(int pid, string instance)
+onPlayerEquipRangedWeapon(int pid, string instance)
+onPlayerEquipShield(int pid, string instance)
+onPlayerEquipHandItem(int pid, int hand, string instance)
+onPlayerSpellSetup(pid, itemId)
+onPlayerSpellCast(pid, itemId)
+onPlayerEnterWorld(int pid)
+onPlayerChangeWorld(int pid, string world)
+onPlayerDropItem(int pid, ItemGround)
+onPlayerTakeItem(int pid, ItemGround)
+    
+//Network
+onPacket(int id, Packet packet);
+
+
+//CLIENT EVENTS
+
+onInit()
+onRender()
+onRenderFocus(int vobType, int id, int x, int y, string name)
+onCommand(string cmd, string params)
+onKey(int key)
+onPlayerHit(int killerid, int playerid, int dmg)
+onPlayerDead(int playerid)
+onDamage(int dmg, int dmgType)
+onSpellCast(itemId)
+onEquip(string instance)
+onUnequip(string instance)
+onOpenInventory()
+onCloseInventory()
+onSink()
+onPlayerCreate(int id)
+onPlayerDestroy(int id)
+onPlayerSpawn(int id)
+onPlayerUnspawn(int id)
+onPlayerMessage(int id, int r, int g, int b, string message)
+onMouseClick(int button)
+onMouseRelease(int button)
+onMouseWheel(int value)
+onRespawn()
+onFocus(int focusId, int oldFocusId)
+onTakeItem(string instance, int amount)
+onDropItem(string instance, int amount)
+onUseItem(string instance, int amount, int hand)
+onChangeResolution()
+onWorldChange(string world)
+onWorldEnter()
+onPlayerChangeNickname(int pid, string name)
+onPlayerChangeColor(int pid, int r, int g, int b)
+onPlayerChangePing(int pid, int ping)
+onMobInteract(pointer, from, to)
+onExit()
+    
+//Network
+onPacket(Packet packet);
+
+
+//SHARED
+
+//Game
+void setTime(hour, min[, day])
+table {hour, min, day} getTime()
+
+//Event
+void addEvent(string eventName)
+void removeEvent(string eventName)
+void callEvent(string eventName, args...)
+void addEventHandler(string eventName, function handler)
+void cancelEvent()
+void eventValue(int value)
+
+//Timer
+int setTimer(function handler, int interval, int executeTimes)
+void killTimer(int id)
+void setTimerInterval(int id, int interval)
+int getTimerInterval(int id)
+void setTimerExecuteTimes(int id, int times)
+int getTimerExecuteTimes(int id)
+
+//Cryptography
+string md5(string text)
+string sha1(string text)
+string sha256(string text)
+string sha384(string text)
+string sha512(string text)
+
+//Utility
+string rgbToHex(int r, int g, int b)
+table {r, g, b} hexToRgb(string hex)
+array sscanf(string format, string text)
+int getTickCount()
+
+//Math
+float getDistance3d(float x1, float y1, float z1, float x2, float y2, float z2)
+float getDistance2d(float x1, float y1, float x2, float y2)
+float getVectorAngle(float x1, float y1, float x2, float y2)
+
+//Queue
+int queue.len()
+bool queue.empty()
+element queue.front()
+element queue.back()
+void queue.push(element)
+void queue.pop()
+element queue[index] operator
